@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from perconcept.muzahid.com/Charity-sympathy/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 25 Mar 2018 14:22:23 GMT -->
+<!-- Mirrored from perconcept.muzahid.com/Charity-sympathy/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 25 Mar 2018 14:27:12 GMT -->
 <head>
     <meta charset="UTF-8">
     <title>Charity sympathy || Responsive HTML 5 Template</title> 
@@ -110,10 +110,9 @@
                             </li>
                             <li><a href="contact.html">contact</a></li>
                         </ul>
-						
                         <ul class="mobile-menu clearfix">
 
-                             <li class="dropdown active"><a href="index.html">Home</a>
+                            <li class="dropdown active"><a href="index.html">Home</a>
                                 <ul>
                                     <li><a href="index.html">Home One</a></li>
                                     <li><a href="index-2.html">Home Two</a></li>
@@ -171,8 +170,6 @@
                     
             </div>
         </div>
-                
-
    </div> <!-- End of .conatiner -->
 </section>
   
@@ -181,7 +178,6 @@
         <ul>
             <li data-transition="fade">
                 <img src="images/slider/1.jpg"  alt="" width="1920" height="882" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
-                
                 <div class="tp-caption  tp-resizeme" 
                     data-x="left" data-hoffset="15" 
                     data-y="top" data-voffset="300" 
@@ -215,13 +211,10 @@
                         </div>
                     </div>
                 </div>
-               
             </li>
 			
 			<li data-transition="fade">
                 <img src="images/slider/2.jpg"  alt="" width="1920" height="882" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
-                
-               
                 <div class="tp-caption tp-resizeme"
                     data-x="center" data-hoffset="" 
                     data-y="center" data-voffset="-70" 
@@ -255,13 +248,10 @@
                         </div>
                     </div>
                 </div>
-
             </li>
             
             <li data-transition="fade">
                 <img src="images/slider/3.jpg"  alt="" width="1920" height="882" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
-                
-                
                 <div class="tp-caption tp-resizeme"
                     data-x="center" data-hoffset="" 
                     data-y="center" data-voffset="-70" 
@@ -295,10 +285,7 @@
                         </div>
                     </div>
                 </div>
-
             </li>
-            
-           
         </ul>
     </div>
 </section>
@@ -377,693 +364,8 @@
     
 </section>
 
-<section class="our-missions">
-	<div class="container">
-		<div class="section-title">
-            <h1>our <span>missions</span></h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-        </div>
-		<div class="item-box">
-			<div class="row">
-				<div class="col-md-4 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="image-box">
-							<img src="images/missions/1.png" alt="" />
-						</div>
-						<div class="content-box">
-							<h2>Donation</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-						</div>
-						<div class="link"><a href="#" class="thm-btn style-2">join now</a></div>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="image-box">
-							<img src="images/missions/2.png" alt="" />
-						</div>
-						<div class="content-box">
-							<h2>volunteers</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-						</div>
-						<div class="link"><a href="#" class="thm-btn style-2">join now</a></div>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="image-box">
-							<img src="images/missions/3.png" alt="" />
-						</div>
-						<div class="content-box">
-							<h2>fundraising</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-						</div>
-						<div class="link"><a href="#" class="thm-btn style-2">join now</a></div>
-					</div>
-				</div>
-			</div>
-			
-		</div>
-	</div>
-</section>
-
-<section class="recent-causes">
-	<div class="container">
-		<div class="section-title">
-            <h5>HELP to THE poor People</h5>
-            <h1>recent <span>causes</span></h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-        </div>
-
-		
-		<div class="recent-causes-carousel">
-			
-			<div class="item">
-				<div class="bg-area">
-					<div class="image-box">
-						<img src="images/causes/1.jpg" alt="Awesome Image"/>
-						<div class="overlay">
-							<div class="box">
-								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="content-box">
-						<div class="progress-levels">
-                                    
-                                    <!--Skill Box-->
-                                    <div class="progress-box">
-                                        
-                                        <div class="inner">
-                                            <div class="bar">
-                                                <div class="bar-innner">
-                                                    <div class="bar-fill" data-percent="45">
-                                                        <span class="percent">45%</span>
-                                                    </div>
-                                                </div>
-                                                
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-						<div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
-						<h4>Help to reach <span>food!</span></h4>
-						<p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-						<div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
-					</div>
-				</div>
-				
-			</div>
-			<div class="item">
-				<div class="clearfix bg-area">
-					<div class="image-box">
-						<img src="images/causes/2.jpg" alt="Awesome Image"/>
-						<div class="overlay">
-							<div class="box">
-								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="content-box">
-						<div class="progress-levels">  
-						   <!--Skill Box-->
-							<div class="progress-box"> 
-								<div class="inner">
-									<div class="bar">
-										<div class="bar-innner">
-											<div class="bar-fill" data-percent="45">
-												<span class="percent">45%</span>
-											</div>
-										</div> 
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
-						<h4>Help to reach <span>food!</span></h4>
-						<p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-						<div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
-					</div>
-				</div>
-				
-			</div>
-					
-			<div class="item">
-				<div class="clearfix bg-area">
-					<div class="image-box">
-						<img src="images/causes/3.jpg" alt="Awesome Image"/>
-						<div class="overlay">
-							<div class="box">
-								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="content-box">
-						<div class="progress-levels">  
-						   <!--Skill Box-->
-							<div class="progress-box"> 
-								<div class="inner">
-									<div class="bar">
-										<div class="bar-innner">
-											<div class="bar-fill" data-percent="45">
-												<span class="percent">45%</span>
-											</div>
-										</div> 
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
-						<h4>Help to reach <span>food!</span></h4>
-						<p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-						<div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
-					</div>
-				</div>
-				
-			</div> 
-
-            <div class="item">
-                <div class="clearfix bg-area">
-                    <div class="image-box">
-                        <img src="images/causes/1.jpg" alt="Awesome Image"/>
-						<div class="overlay">
-							<div class="box">
-								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
-								</div>
-							</div>
-						</div>
-                    </div>
-                    <div class="content-box">
-                        <div class="progress-levels">  
-                           <!--Skill Box-->
-                            <div class="progress-box"> 
-                                <div class="inner">
-                                    <div class="bar">
-                                        <div class="bar-innner">
-                                            <div class="bar-fill" data-percent="45">
-                                                <span class="percent">45%</span>
-                                            </div>
-                                        </div> 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
-                        <h4>Help to reach <span>food!</span></h4>
-                        <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-                        <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
-                    </div>
-                </div>
-                
-            </div>
-            <div class="item">
-                <div class="clearfix bg-area">
-                    <div class="image-box">
-                        <img src="images/causes/2.jpg" alt="Awesome Image"/>
-						<div class="overlay">
-							<div class="box">
-								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
-								</div>
-							</div>
-						</div>
-                    </div>
-                    <div class="content-box">
-                        <div class="progress-levels">  
-                           <!--Skill Box-->
-                            <div class="progress-box"> 
-                                <div class="inner">
-                                    <div class="bar">
-                                        <div class="bar-innner">
-                                            <div class="bar-fill" data-percent="45">
-                                                <span class="percent">45%</span>
-                                            </div>
-                                        </div> 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
-                        <h4>Help to reach <span>food!</span></h4>
-                        <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-                        <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
-                    </div>
-                </div>
-                
-            </div>
-                    
-            <div class="item">
-                <div class="clearfix bg-area">
-                    <div class="image-box">
-                        <img src="images/causes/3.jpg" alt="Awesome Image"/>
-						<div class="overlay">
-							<div class="box">
-								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
-								</div>
-							</div>
-						</div>
-                    </div>
-                    <div class="content-box">
-                        <div class="progress-levels">  
-                           <!--Skill Box-->
-                            <div class="progress-box"> 
-                                <div class="inner">
-                                    <div class="bar">
-                                        <div class="bar-innner">
-                                            <div class="bar-fill" data-percent="45">
-                                                <span class="percent">45%</span>
-                                            </div>
-                                        </div> 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
-                        <h4>Help to reach <span>food!</span></h4>
-                        <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-                        <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
-                    </div>
-                </div>
-                
-            </div> 
-
-            <div class="item">
-                <div class="clearfix bg-area">
-                    <div class="image-box">
-                        <img src="images/causes/1.jpg" alt="Awesome Image"/>
-						<div class="overlay">
-							<div class="box">
-								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
-								</div>
-							</div>
-						</div>
-                    </div>
-                    <div class="content-box">
-                        <div class="progress-levels">  
-                           <!--Skill Box-->
-                            <div class="progress-box"> 
-                                <div class="inner">
-                                    <div class="bar">
-                                        <div class="bar-innner">
-                                            <div class="bar-fill" data-percent="45">
-                                                <span class="percent">45%</span>
-                                            </div>
-                                        </div> 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
-                        <h4>Help to reach <span>food!</span></h4>
-                        <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-                        <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
-                    </div>
-                </div>
-                
-            </div>
-            <div class="item">
-                <div class="clearfix bg-area">
-                    <div class="image-box">
-                        <img src="images/causes/2.jpg" alt="Awesome Image"/>
-						<div class="overlay">
-							<div class="box">
-								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
-								</div>
-							</div>
-						</div>
-                    </div>
-                    <div class="content-box">
-                        <div class="progress-levels">  
-                           <!--Skill Box-->
-                            <div class="progress-box"> 
-                                <div class="inner">
-                                    <div class="bar">
-                                        <div class="bar-innner">
-                                            <div class="bar-fill" data-percent="45">
-                                                <span class="percent">45%</span>
-                                            </div>
-                                        </div> 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
-                        <h4>Help to reach <span>food!</span></h4>
-                        <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-                        <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
-                    </div>
-                </div>
-                
-            </div>
-                    
-            <div class="item">
-                <div class="clearfix bg-area">
-                    <div class="image-box">
-                        <img src="images/causes/3.jpg" alt="Awesome Image"/>
-						<div class="overlay">
-							<div class="box">
-								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
-								</div>
-							</div>
-						</div>
-                    </div>
-                    <div class="content-box">
-                        <div class="progress-levels">  
-                           <!--Skill Box-->
-                            <div class="progress-box"> 
-                                <div class="inner">
-                                    <div class="bar">
-                                        <div class="bar-innner">
-                                            <div class="bar-fill" data-percent="45">
-                                                <span class="percent">45%</span>
-                                            </div>
-                                        </div> 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
-                        <h4>Help to reach <span>food!</span></h4>
-                        <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-                        <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
-                    </div>
-                </div>
-                
-            </div>         
-		</div>
-	</div>
-</section>
-
-<section class="features">
-    <div class="container">
-        <div class="item-list">
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="item">
-                        <div class="section-title">
-                       
-                            <h1>WHERE <span> MONEY </span> GOES</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-                        </div>
-                        <div class="content-box">
-                            <ul class="default-list">
-                                <li><i class="flaticon-check-mark-square-button"></i><span>60% </span>money goes for <span>Food Donation</span> in <span>Syria</span></li>
-                                <li><i class="flaticon-check-mark-square-button"></i><span>35%</span> money goes for <span>Educational Fund </span>in <span>Bihar</span></li>
-                                <li><i class="flaticon-check-mark-square-button"></i><span>15%</span> money goes for <span>Health Donation </span>in <span>Bangladesh</span></li>
-                                <li><i class="flaticon-check-mark-square-button"></i><span>20% </span>money goes for <span>Building house </span>for shelter</li>
-                            </ul>
-                            <div class="link"><a href="#" class="thm-btn">JOIN TODAY</a></div>
-                        </div>
-                    </div>
-                    
-                </div>
-                <div class="col-md-6">
-                    <div class="item">
-                        <div class="image-box">
-                            <img src="images/feature/4.png" alt="">
-                        </div>
-                        <ul class="list">
-                            <li><i class="icon flaticon-stop"></i>Food Donation</li>
-                            <li><i class="icon flaticon-stop"></i>Educational Fund</li>
-                            <li><i class="icon flaticon-stop"></i>Health Donation</li>
-                            <li><i class="icon flaticon-stop"></i>Building Shelter</li>
-                        </ul>
-                    </div>
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-    
-</section>
-
-
-
-<!--start parallax-sec-one-->
-<section class="parallax-sec-one">
-	<div class="container">
-		<div class="section-title">
-			<h1>we help many people</h1>
-			<h4>want to become a <span>volunteer!</span></h4>
-		</div>
-		<div class="content-box text-center">
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun labore dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </p>
-		</div>
-		<div class="link"><a href="single-cause.html" class="thm-btn">Apply now</a></div>
-	</div>
-</section>
-<!--end parallax-sec-one-->
-
-<!--start upcoming-event-->
-<section class="upcoming-event">
-	<div class="container">
-		<div class="section-title">
-            <h5>going to raise humanity</h5>
-            <h1>upcoming <span>event</span></h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-        </div>
-		
-		<div class="upcoming-event-carousel">
-			
-			<div class="item">
-				<div class="bg-area">
-					<div class="image-box">
-						<img src="images/event/2.jpg" alt="Awesome Image"/>
-						<div class="overlay">
-							<div class="box">
-								<div class="content">
-									<a href="event-details.html"><i class="fa fa-link"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-				
-					<div class="content-box">
-						<div class="title-area">
-							<div class="date">18<br><span>jan</span></div>
-							<h3><a href="event-details.html">Going for <span>Food Donation</span></a></h3>
-							<ul class="event-info">
-								<li><span class="fa fa-calendar"></span>&ensp; January 18, 2017&ensp; - </li>
-								<li><span class="fa fa-clock-o"></span>&ensp; 5;00 pm&ensp; -</li>
-								<li><span class="fa fa-map-marker"></span>&ensp; NewDelhi, IN</li>
-							</ul>
-						
-						</div>
-							
-						
-                        <div class="text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, incididunt ut labore et dolore.</p>
-						</div>					
-						<div class="link"><a href="#" class="thm-btn">buy ticket</a></div>
-                    </div>
-				</div>	
-			</div>
-			
-			<div class="item">
-				<div class="bg-area">
-					<div class="image-box">
-						<img src="images/event/1.jpg" alt="Awesome Image"/>
-						<div class="overlay">
-							<div class="box">
-								<div class="content">
-									<a href="event-details.html"><i class="fa fa-link"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-				
-					<div class="content-box">
-						<div class="title-area">
-							<div class="date">12 <br><span>Feb</span></div>
-							<h3><a href="event-details.html">Going for <span>Food Donation</span></a></h3>
-							<ul class="event-info">
-								<li><span class="fa fa-calendar"></span>&ensp; January 18, 2017&ensp; - </li>
-								<li><span class="fa fa-clock-o"></span>&ensp; 5;00 pm&ensp; -</li>
-								<li><span class="fa fa-map-marker"></span>&ensp; NewDelhi, IN</li>
-							</ul>
-						
-						</div>
-							
-						
-                        <div class="text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, incididunt ut labore et dolore.</p>
-						</div>					
-						<div class="link"><a href="#" class="thm-btn">buy ticket</a></div>
-                    </div>
-				</div>
-			</div>
-			
-		</div>
-	</div>
-</section>
-<!--end upcoming-event-->
-
-<!--start our-team-->
-<section class="our-team">
-	<div class="container">
-		<div class="section-title">
-            <h5>meet our team to help today</h5>
-            <h1>our<span> volunteer</span></h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-        </div>
-
-		<div class="item-box">
-			<div class="row">
-				<div class="col-md-3 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="bg-area">
-							<div class="image-box">
-								<img src="images/team/1.jpg" alt="" />
-							</div>
-							<div class="content-box">
-								<h4>Dr. Adam Chohan</h4>
-								<div class="progress-levels">  
-									<!--Skill Box-->
-									<div class="progress-box"> 
-										<div class="inner">
-											<div class="bar">
-												<div class="bar-innner">
-													<div class="bar-fill" data-percent="70"></div>											
-												</div> 
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="text">
-									<p>Lorem ipsum dolor sit amet, adipiscing elit, sed do edu.</p>
-								</div>
-								<ul class="social">
-									<li><a href="#"><span class="fa fa-facebook"></span></a></li>
-									<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-									<li><a href="#"><span class="fa fa-dribbble"></span></a></li>
-									<li><a href="#"><span class="fa fa-behance"></span></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-3 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="bg-area">
-							<div class="image-box">
-								<img src="images/team/2.jpg" alt="" />
-							</div>
-							<div class="content-box">
-								<h4>Prof. Fredric Roman</h4>
-								<div class="progress-levels">  
-									<!--Skill Box-->
-									<div class="progress-box"> 
-										<div class="inner">
-											<div class="bar">
-												<div class="bar-innner">
-													<div class="bar-fill" data-percent="79"></div>											
-												</div> 
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="text">
-									<p>Lorem ipsum dolor sit amet, adipiscing elit, sed do edu.</p>
-								</div>
-								<ul class="social">
-									<li><a href="#"><span class="fa fa-facebook"></span></a></li>
-									<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-									<li><a href="#"><span class="fa fa-dribbble"></span></a></li>
-									<li><a href="#"><span class="fa fa-behance"></span></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-3 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="bg-area">
-							<div class="image-box">
-								<img src="images/team/3.jpg" alt="" />
-							</div>
-							<div class="content-box">
-								<h4>Dr. Adam Chohan</h4>
-								<div class="progress-levels">  
-									<!--Skill Box-->
-									<div class="progress-box"> 
-										<div class="inner">
-											<div class="bar">
-												<div class="bar-innner">
-													<div class="bar-fill" data-percent="70"></div>											
-												</div> 
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="text">
-									<p>Lorem ipsum dolor sit amet, adipiscing elit, sed do edu.</p>
-								</div>
-								<ul class="social">
-									<li><a href="#"><span class="fa fa-facebook"></span></a></li>
-									<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-									<li><a href="#"><span class="fa fa-dribbble"></span></a></li>
-									<li><a href="#"><span class="fa fa-behance"></span></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-3 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="bg-area">
-							<div class="image-box">
-								<img src="images/team/4.jpg" alt="" />
-							</div>
-							<div class="content-box">
-								<h4>Sara Lian</h4>
-								<div class="progress-levels">  
-									<!--Skill Box-->
-									<div class="progress-box"> 
-										<div class="inner">
-											<div class="bar">
-												<div class="bar-innner">
-													<div class="bar-fill" data-percent="36"></div>											
-												</div> 
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="text">
-									<p>Lorem ipsum dolor sit amet, adipiscing elit, sed do edu.</p>
-								</div>
-								<ul class="social">
-									<li><a href="#"><span class="fa fa-facebook"></span></a></li>
-									<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-									<li><a href="#"><span class="fa fa-dribbble"></span></a></li>
-									<li><a href="#"><span class="fa fa-behance"></span></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		
-	</div>
-</section>
-<!--end our-team-->
-
 <!--start our features-->
-<section class="our-features">
+<section class="our-features style-two">
 	<div class="container">
 		<div class="section-title">
             <h5>HELP to THE poor People</h5>
@@ -1133,6 +435,540 @@
 </section>
 <!--end our features-->
 
+<section class="feature-two">
+	<div class="container-fluid">
+        <div class="item-list">
+            <div class="row">
+                <div class="column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                    <div class="content-box">
+                        <div class="section-title">
+                            <h5>Raise your hand to the poor</h5>
+                            <h1>Help <span>Alisa</span> to Continue <span>Study!</span></h1>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+                        </div>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
+                    </div>  
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section class="recent-causes">
+	<div class="container">
+		<div class="section-title">
+            <h5>HELP to THE poor People</h5>
+            <h1>recent <span>causes</span></h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+        </div>
+
+		
+		<div class="recent-causes-carousel">
+			
+			<div class="item">
+				<div class="bg-area">
+					<div class="image-box">
+						<img src="images/causes/1.jpg" alt="Awesome Image"/>
+						<div class="overlay">
+							<div class="box">
+								<div class="content">
+									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="content-box">
+						<div class="progress-levels">
+                                    
+                                    <!--Skill Box-->
+                                    <div class="progress-box">
+                                        
+                                        <div class="inner">
+                                            <div class="bar">
+                                                <div class="bar-innner">
+                                                    <div class="bar-fill" data-percent="45">
+                                                        <span class="percent">45%</span>
+                                                    </div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+						<div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
+						<h4>Help to reach <span>food!</span></h4>
+						<p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
+						<div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
+					</div>
+				</div>
+				
+			</div>
+			<div class="item">
+				<div class="clearfix bg-area">
+					<div class="image-box">
+						<img src="images/causes/2.jpg" alt="Awesome Image"/>
+						<div class="overlay">
+							<div class="box">
+								<div class="content">
+									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="content-box">
+						<div class="progress-levels">  
+						   <!--Skill Box-->
+							<div class="progress-box"> 
+								<div class="inner">
+									<div class="bar">
+										<div class="bar-innner">
+											<div class="bar-fill" data-percent="45">
+												<span class="percent">45%</span>
+											</div>
+										</div> 
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
+						<h4>Help to reach <span>food!</span></h4>
+						<p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
+						<div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
+					</div>
+				</div>
+				
+			</div>
+					
+			<div class="item">
+				<div class="clearfix bg-area">
+					<div class="image-box">
+						<img src="images/causes/3.jpg" alt="Awesome Image"/>
+						<div class="overlay">
+							<div class="box">
+								<div class="content">
+									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="content-box">
+						<div class="progress-levels">  
+						   <!--Skill Box-->
+							<div class="progress-box"> 
+								<div class="inner">
+									<div class="bar">
+										<div class="bar-innner">
+											<div class="bar-fill" data-percent="45">
+												<span class="percent">45%</span>
+											</div>
+										</div> 
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
+						<h4>Help to reach <span>food!</span></h4>
+						<p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
+						<div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
+					</div>
+				</div>
+				
+			</div> 
+
+            <div class="item">
+                <div class="clearfix bg-area">
+                    <div class="image-box">
+                        <img src="images/causes/1.jpg" alt="Awesome Image"/>
+						<div class="overlay">
+							<div class="box">
+								<div class="content">
+									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+								</div>
+							</div>
+						</div>
+                    </div>
+                    <div class="content-box">
+                        <div class="progress-levels">  
+                           <!--Skill Box-->
+                            <div class="progress-box"> 
+                                <div class="inner">
+                                    <div class="bar">
+                                        <div class="bar-innner">
+                                            <div class="bar-fill" data-percent="45">
+                                                <span class="percent">45%</span>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
+                        <h4>Help to reach <span>food!</span></h4>
+                        <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
+                        <div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="item">
+                <div class="clearfix bg-area">
+                    <div class="image-box">
+                        <img src="images/causes/2.jpg" alt="Awesome Image"/>
+						<div class="overlay">
+							<div class="box">
+								<div class="content">
+									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+								</div>
+							</div>
+						</div>
+                    </div>
+                    <div class="content-box">
+                        <div class="progress-levels">  
+                           <!--Skill Box-->
+                            <div class="progress-box"> 
+                                <div class="inner">
+                                    <div class="bar">
+                                        <div class="bar-innner">
+                                            <div class="bar-fill" data-percent="45">
+                                                <span class="percent">45%</span>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
+                        <h4>Help to reach <span>food!</span></h4>
+                        <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
+                        <div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
+                    </div>
+                </div>
+                
+            </div>
+                    
+            <div class="item">
+                <div class="clearfix bg-area">
+                    <div class="image-box">
+                        <img src="images/causes/3.jpg" alt="Awesome Image"/>
+						<div class="overlay">
+							<div class="box">
+								<div class="content">
+									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+								</div>
+							</div>
+						</div>
+                    </div>
+                    <div class="content-box">
+                        <div class="progress-levels">  
+                           <!--Skill Box-->
+                            <div class="progress-box"> 
+                                <div class="inner">
+                                    <div class="bar">
+                                        <div class="bar-innner">
+                                            <div class="bar-fill" data-percent="45">
+                                                <span class="percent">45%</span>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
+                        <h4>Help to reach <span>food!</span></h4>
+                        <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
+                        <div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
+                    </div>
+                </div>
+                
+            </div> 
+
+            <div class="item">
+                <div class="clearfix bg-area">
+                    <div class="image-box">
+                        <img src="images/causes/1.jpg" alt="Awesome Image"/>
+						<div class="overlay">
+							<div class="box">
+								<div class="content">
+									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+								</div>
+							</div>
+						</div>
+                    </div>
+                    <div class="content-box">
+                        <div class="progress-levels">  
+                           <!--Skill Box-->
+                            <div class="progress-box"> 
+                                <div class="inner">
+                                    <div class="bar">
+                                        <div class="bar-innner">
+                                            <div class="bar-fill" data-percent="45">
+                                                <span class="percent">45%</span>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
+                        <h4>Help to reach <span>food!</span></h4>
+                        <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
+                        <div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="item">
+                <div class="clearfix bg-area">
+                    <div class="image-box">
+                        <img src="images/causes/2.jpg" alt="Awesome Image"/>
+						<div class="overlay">
+							<div class="box">
+								<div class="content">
+									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+								</div>
+							</div>
+						</div>
+                    </div>
+                    <div class="content-box">
+                        <div class="progress-levels">  
+                           <!--Skill Box-->
+                            <div class="progress-box"> 
+                                <div class="inner">
+                                    <div class="bar">
+                                        <div class="bar-innner">
+                                            <div class="bar-fill" data-percent="45">
+                                                <span class="percent">45%</span>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
+                        <h4>Help to reach <span>food!</span></h4>
+                        <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
+                        <div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
+                    </div>
+                </div>
+                
+            </div>
+                    
+            <div class="item">
+                <div class="clearfix bg-area">
+                    <div class="image-box">
+                        <img src="images/causes/3.jpg" alt="Awesome Image"/>
+						<div class="overlay">
+							<div class="box">
+								<div class="content">
+									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+								</div>
+							</div>
+						</div>
+                    </div>
+                    <div class="content-box">
+                        <div class="progress-levels">  
+                           <!--Skill Box-->
+                            <div class="progress-box"> 
+                                <div class="inner">
+                                    <div class="bar">
+                                        <div class="bar-innner">
+                                            <div class="bar-fill" data-percent="45">
+                                                <span class="percent">45%</span>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
+                        <h4>Help to reach <span>food!</span></h4>
+                        <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
+                        <div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
+                    </div>
+                </div>
+                
+            </div>         
+		</div>
+	</div>
+</section>
+
+<section class="features">
+    <div class="container">
+        <div class="item-list">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="item">
+                        <div class="section-title">
+                       
+                            <h1>WHERE <span> MONEY </span> GOES</h1>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+                        </div>
+                        <div class="content-box">
+                            <ul class="default-list">
+                                <li><i class="flaticon-check-mark-square-button"></i><span>60% </span>money goes for <span>Food Donation</span> in <span>Syria</span></li>
+                                <li><i class="flaticon-check-mark-square-button"></i><span>35%</span> money goes for <span>Educational Fund </span>in <span>Bihar</span></li>
+                                <li><i class="flaticon-check-mark-square-button"></i><span>15%</span> money goes for <span>Health Donation </span>in <span>Bangladesh</span></li>
+                                <li><i class="flaticon-check-mark-square-button"></i><span>20% </span>money goes for <span>Building house </span>for shelter</li>
+                            </ul>
+                            <div class="link"><a href="#" class="thm-btn">JOIN TODAY</a></div>
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="col-md-6">
+                    <div class="item">
+                        <div class="image-box">
+                            <img src="images/feature/4.png" alt="">
+                        </div>
+                        <ul class="list">
+                            <li><i class="icon flaticon-stop"></i>Food Donation</li>
+                            <li><i class="icon flaticon-stop"></i>Educational Fund</li>
+                            <li><i class="icon flaticon-stop"></i>Health Donation</li>
+                            <li><i class="icon flaticon-stop"></i>Building Shelter</li>
+                        </ul>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</section>
+
+
+
+<!--start parallax-sec-one-->
+<section class="parallax-sec-one">
+	<div class="container">
+		<div class="section-title">
+			<h1>we help many people</h1>
+			<h4>want to become a <span>volunteer!</span></h4>
+		</div>
+		<div class="content-box text-center">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun labore dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </p>
+		</div>
+		<div class="link"><a href="#" class="thm-btn">Apply now</a></div>
+	</div>
+</section>
+<!--end parallax-sec-one-->
+
+<section class="our-gallery text-center">
+			<div class="container">            
+				<ul class="post-filter list-inline">
+					<li class="active" data-filter=".filter-item">
+						<span>All</span>
+					</li>
+					<li data-filter=".Food-giving">
+						<span>Food giving </span>
+					</li>
+					<li data-filter=".making-shelter">
+						<span>making shelter</span>
+					</li>
+					<li data-filter=".educational-help">
+						<span>educational help </span>
+					</li>
+					<li data-filter=".volunteer">
+						<span>volunteer</span>
+					</li>
+				</ul>
+
+				<div class="row masonary-layout filter-layout">
+					<div class="col-md-4 col-sm-6 col-xs-12 filter-item">
+						<div class="single-item">
+							<figure class="img-holder">
+								<img src="images/gallery/1.jpg" alt="Awesome Image">
+								<div class="overlay">
+									<div class="box">
+										<div class="content">
+											<a href="images/gallery/1.jpg" data-fancybox-group="example-gallery" class="view lightbox-image img-popup"><i class="fa fa-plus"></i></a>
+										</div>
+									</div>
+								</div>
+							</figure>
+							
+						</div>
+					</div>
+
+					<div class="col-md-4 col-sm-6 col-xs-12 filter-item Food-giving educational-help">
+						<div class="single-item">
+							<figure class="img-holder">
+								<img src="images/gallery/2.jpg" alt="Awesome Image">
+								<div class="overlay">
+									<div class="box">
+										<div class="content">
+											<a href="images/gallery/2.jpg" data-fancybox-group="example-gallery" class="view lightbox-image img-popup"><i class="fa fa-plus"></i></a>
+										</div>
+									</div>
+								</div>
+							</figure>
+							
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 col-xs-12 filter-item volunteer  making-shelter">
+						<div class="single-item">
+							<figure class="img-holder">
+								<img src="images/gallery/3.jpg" alt="Awesome Image">
+								<div class="overlay">
+									<div class="box">
+										<div class="content">
+											<a href="images/gallery/3.jpg" data-fancybox-group="example-gallery" class="view lightbox-image img-popup"><i class="fa fa-plus"></i></a>
+										</div>
+									</div>
+								</div>
+							</figure>
+							
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 col-xs-12 filter-item Food-giving educational-help making-shelter">
+						<div class="single-item">
+							<figure class="img-holder">
+								<img src="images/gallery/4.jpg" alt="Awesome Image">
+								<div class="overlay">
+									<div class="box">
+										<div class="content">
+											<a href="images/gallery/4.jpg" data-fancybox-group="example-gallery" class="view lightbox-image img-popup"><i class="fa fa-plus"></i></a>
+										</div>
+									</div>
+								</div>
+							</figure>
+							
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 col-xs-12 filter-item volunteer educational-help making-shelter">
+						<div class="single-item">
+							<figure class="img-holder">
+								<img src="images/gallery/5.jpg" alt="Awesome Image">
+								<div class="overlay">
+									<div class="box">
+										<div class="content">
+											<a href="images/gallery/5.jpg" data-fancybox-group="example-gallery" class="view lightbox-image img-popup"><i class="fa fa-plus"></i></a>
+										</div>
+									</div>
+								</div>
+							</figure>
+							
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 col-xs-12 filter-item educational-help Food-giving video volunteer making-shelter">
+					<div class="single-item">
+					<figure class="img-holder">
+						<img src="images/gallery/6.jpg" alt="Awesome Image">
+						<div class="overlay">
+							<div class="box">
+								<div class="content">
+									<a href="images/gallery/6.jpg" data-fancybox-group="example-gallery" class="view lightbox-image img-popup"><i class="fa fa-plus"></i></a>
+								</div>
+							</div>
+						</div>
+					</figure>	
+				</div>
+			</div>
+		</div><!-- /.row -->
+	</div><!-- /.container -->
+</section><!-- /.latest-gallery -->
+
 <section class="news-update">
     <div class="container">
         <div class="section-title">
@@ -1160,8 +996,8 @@
                             <li><i class="fa fa-user"></i>By <span>John Doe </span> </li>
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
-                        <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <h4><a href="blog-details.html">Children's National festival for learning</a></h4>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1182,8 +1018,8 @@
                             <li><i class="fa fa-user"></i>By <span>John Doe </span> </li>
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
-                        <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <h4><a href="blog-details.html">Children's National festival for learning</a></h4>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1204,8 +1040,8 @@
                             <li><i class="fa fa-user"></i>By <span>John Doe </span> </li>
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
-                        <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <h4><a href="blog-details.html">Children's National festival for learning</a></h4>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1226,8 +1062,8 @@
                             <li><i class="fa fa-user"></i>By <span>John Doe </span> </li>
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
-                        <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <h4><a href="blog-details.html">Children's National festival for learning</a></h4>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1248,8 +1084,8 @@
                             <li><i class="fa fa-user"></i>By <span>John Doe </span> </li>
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
-                        <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <h4><a href="blog-details.html">Children's National festival for learning</a></h4>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1270,8 +1106,8 @@
                             <li><i class="fa fa-user"></i>By <span>John Doe </span> </li>
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
-                        <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <h4><a href="blog-details.html">Children's National festival for learning</a></h4>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1292,8 +1128,8 @@
                             <li><i class="fa fa-user"></i>By <span>John Doe </span> </li>
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
-                        <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <h4><a href="blog-details.html">Children's National festival for learning</a></h4>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1314,8 +1150,8 @@
                             <li><i class="fa fa-user"></i>By <span>John Doe </span> </li>
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
-                        <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <h4><a href="blog-details.html">Children's National festival for learning</a></h4>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1336,8 +1172,8 @@
                             <li><i class="fa fa-user"></i>By <span>John Doe </span> </li>
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
-                        <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <h4><a href="blog-details.html">Children's National festival for learning</a></h4>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1358,8 +1194,8 @@
                             <li><i class="fa fa-user"></i>By <span>John Doe </span> </li>
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
-                        <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <h4><a href="blog-details.html">Children's National festival for learning</a></h4>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1380,8 +1216,8 @@
                             <li><i class="fa fa-user"></i>By <span>John Doe </span> </li>
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
-                        <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <h4><a href="blog-details.html">Children's National festival for learning</a></h4>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1402,14 +1238,129 @@
                             <li><i class="fa fa-user"></i>By <span>John Doe </span> </li>
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
-                        <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <h4><a href="blog-details.html">Children's National festival for learning</a></h4>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
 
         </div>
     </div>
+</section>
+
+<section class="our-shop">
+	<div class="container">
+		<div class="section-title">
+            <h1>our <span>shop</span></h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+        </div>
+		<div class="shop-carousel">
+			<div class="item">
+				<figure class="image-holder">
+					<img src="images/shop/1.jpg" alt="" />
+					<div class="link"><a href="#" class="thm-btn hvr-bounce-to-top">buy now!</a></div>
+				</figure>
+				 
+				<div class="content-holder">
+					<h4>Ladies Bag <span class="fa fa-heart-o"></span></h4>
+					<div class="price-box">
+                        <div class="clearfix">
+                            <div class="float_left">
+                                <div class="rating">
+                                    <span class="fa fa-star-o"></span> 
+                                    <span class="fa fa-star"></span> 
+                                    <span class="fa fa-star"></span> 
+                                    <span class="fa fa-star"></span> 
+                                    <span class="fa fa-star"></span>
+                                </div>
+                            </div>
+                            <div class="float_right">
+                                <h4>$15</h4>
+                            </div>
+                        </div>
+                    </div>
+				</div>
+			</div>
+			<div class="item">
+				<figure class="image-holder">
+					<img src="images/shop/2.jpg" alt="" />
+					<div class="link"><a href="#" class="thm-btn hvr-bounce-to-top">buy now!</a></div>
+				</figure>
+				 
+				<div class="content-holder">
+					<h4>Ladies Bag <span class="fa fa-heart-o"></span></h4>
+					<div class="price-box">
+                        <div class="clearfix">
+                            <div class="float_left">
+                                <div class="rating">
+                                    <span class="fa fa-star-o"></span> 
+                                    <span class="fa fa-star"></span> 
+                                    <span class="fa fa-star"></span> 
+                                    <span class="fa fa-star"></span> 
+                                    <span class="fa fa-star"></span>
+                                </div>
+                            </div>
+                            <div class="float_right">
+                                <h4>$15</h4>
+                            </div>
+                        </div>
+                    </div>
+				</div>
+			</div>
+			<div class="item">
+				<figure class="image-holder">
+					<img src="images/shop/3.jpg" alt="" />
+					<div class="link"><a href="#" class="thm-btn hvr-bounce-to-top">buy now!</a></div>
+				</figure>
+				 
+				<div class="content-holder">
+					<h4>Ladies Bag <span class="fa fa-heart-o"></span></h4>
+					<div class="price-box">
+                        <div class="clearfix">
+                            <div class="float_left">
+                                <div class="rating">
+                                    <span class="fa fa-star-o"></span> 
+                                    <span class="fa fa-star"></span> 
+                                    <span class="fa fa-star"></span> 
+                                    <span class="fa fa-star"></span> 
+                                    <span class="fa fa-star"></span>
+                                </div>
+                            </div>
+                            <div class="float_right">
+                                <h4>$15</h4>
+                            </div>
+                        </div>
+                    </div>
+				</div>
+			</div>
+			<div class="item">
+				<figure class="image-holder">
+					<img src="images/shop/4.jpg" alt="" />
+					<div class="link"><a href="#" class="thm-btn hvr-bounce-to-top">buy now!</a></div>
+				</figure>
+				 
+				<div class="content-holder">
+					<h4>Ladies Bag <span class="fa fa-heart-o"></span></h4>
+					<div class="price-box">
+                        <div class="clearfix">
+                            <div class="float_left">
+                                <div class="rating">
+                                    <span class="fa fa-star-o"></span> 
+                                    <span class="fa fa-star"></span> 
+                                    <span class="fa fa-star"></span> 
+                                    <span class="fa fa-star"></span> 
+                                    <span class="fa fa-star"></span>
+                                </div>
+                            </div>
+                            <div class="float_right">
+                                <h4>$15</h4>
+                            </div>
+                        </div>
+                    </div>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 
 
@@ -1443,20 +1394,29 @@
     </div>  
 </section>
 
-<footer class="main-footer">   
+
+
+
+<footer class="main-footer">
+    
     <!--Widgets Section-->
     <div class="widgets-section">
         <div class="container">
+
             <div class="section-title">
                 <div class="image-box">
                     <img src="images/footer/fl.png" alt="">
-                </div>             
+                </div>
+               
                 <p>Modern concept fot Nonprofit Business</p>
             </div>
+
+
             <div class="row">
                 <!--Big Column-->
                 <div class="col-md-6 col-sm-12 col-xs-12">
-                    <div class="row clearfix">   
+                    <div class="row clearfix">
+                        
                         <!--Footer Column-->
                         <div class="footer-column col-md-6 col-sm-6 col-xs-12">
                             <div class="footer-widget information-widget">
@@ -1491,6 +1451,8 @@
                                              <p><span> July 29, 2017   BY Donald</span></p>
                                         </li>
                                     </ul>
+                                   
+                                   
                                 </div>
                             </div>
                         </div>
@@ -1563,74 +1525,77 @@
                                                 </div>
                                             </li>
 
-                                            <li>
-                                                <div class="img-holder">
-													<img src="images/footer/2.jpg" alt="Awesome Image">
-													<div class="overlay">
-														<div class="box">
-															<div class="content">
-																<a href="#"><i class="fa fa-link"></i></a>
+                                                <li>
+                                                    <div class="img-holder">
+                                                        <img src="images/footer/2.jpg" alt="Awesome Image">
+                                                        <div class="overlay">
+															<div class="box">
+																<div class="content">
+																	<a href="#"><i class="fa fa-link"></i></a>
+																</div>
 															</div>
 														</div>
-													</div>
-												</div>
-											</li>
+                                                    </div>
+                                                </li>
 
-											<li>
-												<div class="img-holder">
-													<img src="images/footer/3.jpg" alt="Awesome Image">
-													<div class="overlay">
-														<div class="box">
-															<div class="content">
-																<a href="#"><i class="fa fa-link"></i></a>
+                                                <li>
+                                                    <div class="img-holder">
+                                                        <img src="images/footer/3.jpg" alt="Awesome Image">
+                                                        <div class="overlay">
+															<div class="box">
+																<div class="content">
+																	<a href="#"><i class="fa fa-link"></i></a>
+																</div>
 															</div>
 														</div>
-													</div>
-												</div>
-											</li>
-											<li>
-												<div class="img-holder">
-													<img src="images/footer/4.jpg" alt="Awesome Image">
-													<div class="overlay">
-														<div class="box">
-															<div class="content">
-																<a href="#"><i class="fa fa-link"></i></a>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="img-holder">
+                                                        <img src="images/footer/4.jpg" alt="Awesome Image">
+                                                        <div class="overlay">
+															<div class="box">
+																<div class="content">
+																	<a href="#"><i class="fa fa-link"></i></a>
+																</div>
 															</div>
 														</div>
-													</div>
-												</div>
-											</li>
-											<li>
-												<div class="img-holder">
-													<img src="images/footer/5.jpg" alt="Awesome Image">
-													<div class="overlay">
-														<div class="box">
-															<div class="content">
-																<a href="#"><i class="fa fa-link"></i></a>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="img-holder">
+                                                        <img src="images/footer/5.jpg" alt="Awesome Image">
+                                                        <div class="overlay">
+															<div class="box">
+																<div class="content">
+																	<a href="#"><i class="fa fa-link"></i></a>
+																</div>
 															</div>
 														</div>
-													</div>
-												</div>
-											</li>
-											<li>
-												<div class="img-holder">
-													<img src="images/footer/6.jpg" alt="Awesome Image">
-													<div class="overlay">
-														<div class="box">
-															<div class="content">
-																<a href="#"><i class="fa fa-link"></i></a>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="img-holder">
+                                                        <img src="images/footer/6.jpg" alt="Awesome Image">
+                                                        <div class="overlay">
+															<div class="box">
+																<div class="content">
+																	<a href="#"><i class="fa fa-link"></i></a>
+																</div>
 															</div>
 														</div>
-													</div>
-												</div>
-											</li>
-										   
-										</ul>
-										
-									</div>
-									
-								</div>
-							</div> 
+                                                    </div>
+                                                </li>
+                                               
+                                            </ul>
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                </div> 
+
+                           
+                       
                     </div>
                 </div>
                 
@@ -1673,6 +1638,7 @@
     <script src="js/jquery.mixitup.min.js"></script>
     <script src="js/jquery.fitvids.js"></script>
     <script src="js/bootstrap-select.min.js"></script>
+   
 
     <!-- revolution slider js -->
     <script src="js/jquery.themepunch.tools.min.js"></script>
@@ -1700,6 +1666,7 @@
     <script src="js/imagezoom.js"></script>
     <script src="js/jquery.magnific-popup.min.js"></script> 
     <script src="js/isotope.js"></script>   
+
 	<script src="js/simplyCountdown.min.js"></script>
     <script id="map-script" src="js/default-map.js"></script>
     <script src="js/custom.js"></script>
@@ -1708,5 +1675,5 @@
     
 </body>
 
-<!-- Mirrored from perconcept.muzahid.com/Charity-sympathy/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 25 Mar 2018 14:26:11 GMT -->
+<!-- Mirrored from perconcept.muzahid.com/Charity-sympathy/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 25 Mar 2018 14:27:23 GMT -->
 </html>

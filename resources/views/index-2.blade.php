@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from perconcept.muzahid.com/Charity-sympathy/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 25 Mar 2018 14:22:23 GMT -->
+<!-- Mirrored from perconcept.muzahid.com/Charity-sympathy/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 25 Mar 2018 14:26:57 GMT -->
 <head>
     <meta charset="UTF-8">
     <title>Charity sympathy || Responsive HTML 5 Template</title> 
@@ -110,10 +110,9 @@
                             </li>
                             <li><a href="contact.html">contact</a></li>
                         </ul>
-						
                         <ul class="mobile-menu clearfix">
 
-                             <li class="dropdown active"><a href="index.html">Home</a>
+                            <li class="dropdown active"><a href="index.html">Home</a>
                                 <ul>
                                     <li><a href="index.html">Home One</a></li>
                                     <li><a href="index-2.html">Home Two</a></li>
@@ -348,7 +347,7 @@
                             <figure class="img-box">
                                 <img src="images/feature/f.jpg" alt="">
                             </figure>
-							
+                            
                             <div class="content">
                                 <h4>Helping for <span>education</span> to syrian <br>child & <span>food planting</span></h4>
                                 <div class="progress-levels">
@@ -377,57 +376,7 @@
     
 </section>
 
-<section class="our-missions">
-	<div class="container">
-		<div class="section-title">
-            <h1>our <span>missions</span></h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-        </div>
-		<div class="item-box">
-			<div class="row">
-				<div class="col-md-4 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="image-box">
-							<img src="images/missions/1.png" alt="" />
-						</div>
-						<div class="content-box">
-							<h2>Donation</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-						</div>
-						<div class="link"><a href="#" class="thm-btn style-2">join now</a></div>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="image-box">
-							<img src="images/missions/2.png" alt="" />
-						</div>
-						<div class="content-box">
-							<h2>volunteers</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-						</div>
-						<div class="link"><a href="#" class="thm-btn style-2">join now</a></div>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="image-box">
-							<img src="images/missions/3.png" alt="" />
-						</div>
-						<div class="content-box">
-							<h2>fundraising</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-						</div>
-						<div class="link"><a href="#" class="thm-btn style-2">join now</a></div>
-					</div>
-				</div>
-			</div>
-			
-		</div>
-	</div>
-</section>
-
-<section class="recent-causes">
+<section class="recent-causes style-two">
 	<div class="container">
 		<div class="section-title">
             <h5>HELP to THE poor People</h5>
@@ -445,7 +394,7 @@
 						<div class="overlay">
 							<div class="box">
 								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+									<a href="#"><i class="fa fa-link"></i></a>
 								</div>
 							</div>
 						</div>
@@ -471,7 +420,7 @@
 						<div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
 						<h4>Help to reach <span>food!</span></h4>
 						<p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-						<div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
+						<div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
 					</div>
 				</div>
 				
@@ -483,7 +432,7 @@
 						<div class="overlay">
 							<div class="box">
 								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+									<a href="#"><i class="fa fa-link"></i></a>
 								</div>
 							</div>
 						</div>
@@ -506,7 +455,7 @@
 						<div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
 						<h4>Help to reach <span>food!</span></h4>
 						<p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-						<div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
+						<div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
 					</div>
 				</div>
 				
@@ -519,7 +468,7 @@
 						<div class="overlay">
 							<div class="box">
 								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+									<a href="#"><i class="fa fa-link"></i></a>
 								</div>
 							</div>
 						</div>
@@ -542,7 +491,7 @@
 						<div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
 						<h4>Help to reach <span>food!</span></h4>
 						<p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-						<div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
+						<div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
 					</div>
 				</div>
 				
@@ -555,7 +504,7 @@
 						<div class="overlay">
 							<div class="box">
 								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+									<a href="#"><i class="fa fa-link"></i></a>
 								</div>
 							</div>
 						</div>
@@ -578,7 +527,7 @@
                         <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
                         <h4>Help to reach <span>food!</span></h4>
                         <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-                        <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
                     </div>
                 </div>
                 
@@ -590,7 +539,7 @@
 						<div class="overlay">
 							<div class="box">
 								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+									<a href="#"><i class="fa fa-link"></i></a>
 								</div>
 							</div>
 						</div>
@@ -613,7 +562,7 @@
                         <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
                         <h4>Help to reach <span>food!</span></h4>
                         <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-                        <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
                     </div>
                 </div>
                 
@@ -626,7 +575,7 @@
 						<div class="overlay">
 							<div class="box">
 								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+									<a href="#"><i class="fa fa-link"></i></a>
 								</div>
 							</div>
 						</div>
@@ -649,7 +598,7 @@
                         <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
                         <h4>Help to reach <span>food!</span></h4>
                         <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-                        <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
                     </div>
                 </div>
                 
@@ -662,7 +611,7 @@
 						<div class="overlay">
 							<div class="box">
 								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+									<a href="#"><i class="fa fa-link"></i></a>
 								</div>
 							</div>
 						</div>
@@ -685,7 +634,7 @@
                         <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
                         <h4>Help to reach <span>food!</span></h4>
                         <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-                        <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
                     </div>
                 </div>
                 
@@ -697,7 +646,7 @@
 						<div class="overlay">
 							<div class="box">
 								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+									<a href="#"><i class="fa fa-link"></i></a>
 								</div>
 							</div>
 						</div>
@@ -720,7 +669,7 @@
                         <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
                         <h4>Help to reach <span>food!</span></h4>
                         <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-                        <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
                     </div>
                 </div>
                 
@@ -733,7 +682,7 @@
 						<div class="overlay">
 							<div class="box">
 								<div class="content">
-									<a href="single-cause.html"><i class="fa fa-link"></i></a>
+									<a href="#"><i class="fa fa-link"></i></a>
 								</div>
 							</div>
 						</div>
@@ -756,7 +705,7 @@
                         <div class="donate-price"><b>$44,210 </b>&nbsp;  Raised of <span>$99,541</span></div>
                         <h4>Help to reach <span>food!</span></h4>
                         <p>Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque. Lorum ipsum iure reprhepu nderitsit amet,onsectetur neque.</p>
-                        <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn style-2">donate now</a></div>
                     </div>
                 </div>
                 
@@ -765,65 +714,105 @@
 	</div>
 </section>
 
-<section class="features">
-    <div class="container">
+<section class="two-column">
+	<div class="container">
+		<div class="section-title">
+            <h5>you will get best support</h5>
+            <h1>why choose  <span>us</span></h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+        </div>
+		<div class="item-list">
+			<div class="row">
+				<div class="column col-md-6 col-sm-6">
+					<div class="image-box">
+						<img src="images/resources/1.jpg" alt="" />
+					</div>
+				</div>
+				<div class="column col-md-6 col-sm-6">
+					<div class="accordion-box style-one">
+                        <!--Start single accordion box-->
+                        <div class="accordion animated out" data-delay="0" data-animation="fadeInUp">
+                            <div class="acc-btn">
+                                <p class="title">We are Trusted Ever</p>
+                                <div class="toggle-icon">
+                                    <span class="plus fa fa-angle-right"></span><span class="minus fa fa-angle-down"></span>
+                                </div>
+                            </div>
+                            <div class="acc-content">
+                                <div class="text"><p>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore Ut enim ad minim veniam. 
+                                </p></div>
+                            </div>
+                        </div>
+                        
+                        <!--Start single accordion box-->
+                        <div class="accordion animated out" data-delay="0" data-animation="fadeInUp">
+                            <div class="acc-btn">
+                                <p class="title">Be Helpful in All purpose</p>
+                                <div class="toggle-icon">
+                                    <i class="plus fa fa-angle-right"></i><i class="minus fa fa-angle-down"></i>
+                                </div>
+                            </div>
+                            <div class="acc-content">
+                                <div class="text"><p>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore Ut enim ad minim veniam. 
+                                </p></div>
+                            </div>
+                        </div>
+                        <!--Start single accordion box-->
+                        <div class="accordion animated out" data-delay="0" data-animation="fadeInUp">
+                            <div class="acc-btn">
+                                <p class="title"> Best Customer Support</p>
+                                <div class="toggle-icon">
+                                    <i class="plus fa fa-angle-right"></i><i class="minus fa fa-angle-down"></i>
+                                </div>
+                            </div>
+                            <div class="acc-content">
+                                <div class="text"><p>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore Ut enim ad minim veniam.
+                                </p></div>
+                            </div>
+                        </div>
+						<!--Start single accordion box-->
+                        <div class="accordion animated out" data-delay="0" data-animation="fadeInUp">
+                            <div class="acc-btn active">
+                                <p class="title">You will know where your fund will go</p>
+                                <div class="toggle-icon">
+                                    <i class="plus fa fa-angle-right"></i><i class="minus fa fa-angle-down"></i>
+                                </div>
+                            </div>
+                            <div class="acc-content collapsed">
+                                <div class="text"><p>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore Ut enim ad minim veniam.
+                                </p></div>
+                            </div>
+                        </div>
+						
+                    </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="feature-two">
+	<div class="container-fluid">
         <div class="item-list">
             <div class="row">
-                <div class="col-md-6">
-                    <div class="item">
+                <div class="column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                    <div class="content-box">
                         <div class="section-title">
-                       
-                            <h1>WHERE <span> MONEY </span> GOES</h1>
+                            <h5>Raise your hand to the poor</h5>
+                            <h1>Help <span>Alisa</span> to Continue <span>Study!</span></h1>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
                         </div>
-                        <div class="content-box">
-                            <ul class="default-list">
-                                <li><i class="flaticon-check-mark-square-button"></i><span>60% </span>money goes for <span>Food Donation</span> in <span>Syria</span></li>
-                                <li><i class="flaticon-check-mark-square-button"></i><span>35%</span> money goes for <span>Educational Fund </span>in <span>Bihar</span></li>
-                                <li><i class="flaticon-check-mark-square-button"></i><span>15%</span> money goes for <span>Health Donation </span>in <span>Bangladesh</span></li>
-                                <li><i class="flaticon-check-mark-square-button"></i><span>20% </span>money goes for <span>Building house </span>for shelter</li>
-                            </ul>
-                            <div class="link"><a href="#" class="thm-btn">JOIN TODAY</a></div>
-                        </div>
-                    </div>
-                    
-                </div>
-                <div class="col-md-6">
-                    <div class="item">
-                        <div class="image-box">
-                            <img src="images/feature/4.png" alt="">
-                        </div>
-                        <ul class="list">
-                            <li><i class="icon flaticon-stop"></i>Food Donation</li>
-                            <li><i class="icon flaticon-stop"></i>Educational Fund</li>
-                            <li><i class="icon flaticon-stop"></i>Health Donation</li>
-                            <li><i class="icon flaticon-stop"></i>Building Shelter</li>
-                        </ul>
-                    </div>
-                    
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
+                    </div>  
                 </div>
             </div>
         </div>
     </div>
-    
 </section>
-
-
-
-<!--start parallax-sec-one-->
-<section class="parallax-sec-one">
-	<div class="container">
-		<div class="section-title">
-			<h1>we help many people</h1>
-			<h4>want to become a <span>volunteer!</span></h4>
-		</div>
-		<div class="content-box text-center">
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun labore dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </p>
-		</div>
-		<div class="link"><a href="single-cause.html" class="thm-btn">Apply now</a></div>
-	</div>
-</section>
-<!--end parallax-sec-one-->
 
 <!--start upcoming-event-->
 <section class="upcoming-event">
@@ -839,11 +828,11 @@
 			<div class="item">
 				<div class="bg-area">
 					<div class="image-box">
-						<img src="images/event/2.jpg" alt="Awesome Image"/>
+						<img src="images/event/4.jpg" alt="Awesome Image"/>
 						<div class="overlay">
 							<div class="box">
 								<div class="content">
-									<a href="event-details.html"><i class="fa fa-link"></i></a>
+									<a href="#"><i class="fa fa-link"></i></a>
 								</div>
 							</div>
 						</div>
@@ -852,7 +841,7 @@
 					<div class="content-box">
 						<div class="title-area">
 							<div class="date">18<br><span>jan</span></div>
-							<h3><a href="event-details.html">Going for <span>Food Donation</span></a></h3>
+							<h3><a href="#">Going for <span>Food Donation</span></a></h3>
 							<ul class="event-info">
 								<li><span class="fa fa-calendar"></span>&ensp; January 18, 2017&ensp; - </li>
 								<li><span class="fa fa-clock-o"></span>&ensp; 5;00 pm&ensp; -</li>
@@ -873,11 +862,11 @@
 			<div class="item">
 				<div class="bg-area">
 					<div class="image-box">
-						<img src="images/event/1.jpg" alt="Awesome Image"/>
+						<img src="images/event/3.jpg" alt="Awesome Image"/>
 						<div class="overlay">
 							<div class="box">
 								<div class="content">
-									<a href="event-details.html"><i class="fa fa-link"></i></a>
+									<a href="#"><i class="fa fa-link"></i></a>
 								</div>
 							</div>
 						</div>
@@ -886,7 +875,7 @@
 					<div class="content-box">
 						<div class="title-area">
 							<div class="date">12 <br><span>Feb</span></div>
-							<h3><a href="event-details.html">Going for <span>Food Donation</span></a></h3>
+							<h3><a href="#">Going for <span>Food Donation</span></a></h3>
 							<ul class="event-info">
 								<li><span class="fa fa-calendar"></span>&ensp; January 18, 2017&ensp; - </li>
 								<li><span class="fa fa-clock-o"></span>&ensp; 5;00 pm&ensp; -</li>
@@ -909,231 +898,45 @@
 </section>
 <!--end upcoming-event-->
 
-<!--start our-team-->
-<section class="our-team">
+<section class="reviews">
 	<div class="container">
 		<div class="section-title">
-            <h5>meet our team to help today</h5>
-            <h1>our<span> volunteer</span></h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-        </div>
-
-		<div class="item-box">
-			<div class="row">
-				<div class="col-md-3 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="bg-area">
-							<div class="image-box">
-								<img src="images/team/1.jpg" alt="" />
-							</div>
-							<div class="content-box">
-								<h4>Dr. Adam Chohan</h4>
-								<div class="progress-levels">  
-									<!--Skill Box-->
-									<div class="progress-box"> 
-										<div class="inner">
-											<div class="bar">
-												<div class="bar-innner">
-													<div class="bar-fill" data-percent="70"></div>											
-												</div> 
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="text">
-									<p>Lorem ipsum dolor sit amet, adipiscing elit, sed do edu.</p>
-								</div>
-								<ul class="social">
-									<li><a href="#"><span class="fa fa-facebook"></span></a></li>
-									<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-									<li><a href="#"><span class="fa fa-dribbble"></span></a></li>
-									<li><a href="#"><span class="fa fa-behance"></span></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-3 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="bg-area">
-							<div class="image-box">
-								<img src="images/team/2.jpg" alt="" />
-							</div>
-							<div class="content-box">
-								<h4>Prof. Fredric Roman</h4>
-								<div class="progress-levels">  
-									<!--Skill Box-->
-									<div class="progress-box"> 
-										<div class="inner">
-											<div class="bar">
-												<div class="bar-innner">
-													<div class="bar-fill" data-percent="79"></div>											
-												</div> 
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="text">
-									<p>Lorem ipsum dolor sit amet, adipiscing elit, sed do edu.</p>
-								</div>
-								<ul class="social">
-									<li><a href="#"><span class="fa fa-facebook"></span></a></li>
-									<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-									<li><a href="#"><span class="fa fa-dribbble"></span></a></li>
-									<li><a href="#"><span class="fa fa-behance"></span></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-3 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="bg-area">
-							<div class="image-box">
-								<img src="images/team/3.jpg" alt="" />
-							</div>
-							<div class="content-box">
-								<h4>Dr. Adam Chohan</h4>
-								<div class="progress-levels">  
-									<!--Skill Box-->
-									<div class="progress-box"> 
-										<div class="inner">
-											<div class="bar">
-												<div class="bar-innner">
-													<div class="bar-fill" data-percent="70"></div>											
-												</div> 
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="text">
-									<p>Lorem ipsum dolor sit amet, adipiscing elit, sed do edu.</p>
-								</div>
-								<ul class="social">
-									<li><a href="#"><span class="fa fa-facebook"></span></a></li>
-									<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-									<li><a href="#"><span class="fa fa-dribbble"></span></a></li>
-									<li><a href="#"><span class="fa fa-behance"></span></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-3 col-sm-6 col-xs-12">
-					<div class="item">
-						<div class="bg-area">
-							<div class="image-box">
-								<img src="images/team/4.jpg" alt="" />
-							</div>
-							<div class="content-box">
-								<h4>Sara Lian</h4>
-								<div class="progress-levels">  
-									<!--Skill Box-->
-									<div class="progress-box"> 
-										<div class="inner">
-											<div class="bar">
-												<div class="bar-innner">
-													<div class="bar-fill" data-percent="36"></div>											
-												</div> 
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="text">
-									<p>Lorem ipsum dolor sit amet, adipiscing elit, sed do edu.</p>
-								</div>
-								<ul class="social">
-									<li><a href="#"><span class="fa fa-facebook"></span></a></li>
-									<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-									<li><a href="#"><span class="fa fa-dribbble"></span></a></li>
-									<li><a href="#"><span class="fa fa-behance"></span></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+			<h1>We got many reviews from Clients</h1>
+			<h4>want to <span>Donate</span> today!</h4>
 		</div>
 		
-	</div>
-</section>
-<!--end our-team-->
-
-<!--start our features-->
-<section class="our-features">
-	<div class="container">
-		<div class="section-title">
-            <h5>HELP to THE poor People</h5>
-            <h1>our <span>features</span></h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
-        </div>
-		
-		<div class="item-list">
-			<div class="row">
-				<div class="col-md-4 col-sm-6">
-					<div class="item">
-						<div class="icon">
-							<span class="flaticon-heart-2"></span>
-						</div>
-						<h3>Giving Food</h3>
-						<div class="link"><a href="#" class="thm-btn style-3">read more<i class="fa fa-angle-right"></i></a></div>
-					</div> 
+		<div class="reviews-carousel">
+            
+            <div class="item">
+				<div class="image-box">
+					<img src="images/resources/1.png" alt="" />
 				</div>
-				<div class="col-md-4 col-sm-6">
-					<div class="item">
-						<div class="icon">
-							<span class="flaticon-house"></span>
-						</div>
-						<h3>Making Home</h3>
-						<div class="link"><a href="#" class="thm-btn style-3">read more<i class="fa fa-angle-right"></i></a></div>
-					</div> 
+				<ul class="speaker-info">
+					<li><span class="fa fa-user"></span>John Doe&ensp;</li>
+					<li><span class="fa fa-briefcase"></span>&ensp;CEO&ensp;</li>
+				</ul>
+				<div class="text">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun labore dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </p>
 				</div>
-				<div class="col-md-4 col-sm-6">
-					<div class="item">
-						<div class="icon">
-							<span class="flaticon-ecology"></span>
-						</div>
-						<h3>Help to Poor</h3>
-						<div class="link"><a href="#" class="thm-btn style-3">read more<i class="fa fa-angle-right"></i></a></div>
-					</div> 
+			</div>
+			<div class="item">
+				<div class="image-box">
+					<img src="images/resources/1.png" alt="" />
 				</div>
-				<div class="col-md-4 col-sm-6">
-					<div class="item">
-						<div class="icon">
-							<span class="flaticon-world-1"></span>
-						</div>
-						<h3>Feed to World</h3>
-						<div class="link"><a href="#" class="thm-btn style-3">read more<i class="fa fa-angle-right"></i></a></div>
-					</div> 
-				</div>
-				<div class="col-md-4 col-sm-6">
-					<div class="item">
-						<div class="icon">
-							<span class="flaticon-heart-1"></span>
-						</div>
-						<h3>Supply Water</h3>
-						<div class="link"><a href="#" class="thm-btn style-3">read more<i class="fa fa-angle-right"></i></a></div>
-					</div> 
-				</div>
-				<div class="col-md-4 col-sm-6">
-					<div class="item">
-						<div class="icon">
-							<span class="flaticon-sprout"></span>
-						</div>
-						<h3>Tree Plantation</h3>
-						<div class="link"><a href="#" class="thm-btn style-3">read more<i class="fa fa-angle-right"></i></a></div>
-					</div> 
+				<ul class="speaker-info">
+					<li><span class="fa fa-user"></span>John Doe&ensp;</li>
+					<li><span class="fa fa-briefcase"></span>&ensp;CEO&ensp;</li>
+				</ul>
+				<div class="text">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun labore dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </p>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!--end our features-->
 
-<section class="news-update">
+
+<section class="news-update style-two">
     <div class="container">
         <div class="section-title">
             <h1>News <span>update</span></h1>
@@ -1161,7 +964,7 @@
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
                         <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1183,7 +986,7 @@
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
                         <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1205,7 +1008,7 @@
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
                         <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1227,7 +1030,7 @@
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
                         <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1249,7 +1052,7 @@
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
                         <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1271,7 +1074,7 @@
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
                         <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1293,7 +1096,7 @@
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
                         <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1315,7 +1118,7 @@
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
                         <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1337,7 +1140,7 @@
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
                         <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1359,7 +1162,7 @@
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
                         <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1381,7 +1184,7 @@
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
                         <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1403,7 +1206,7 @@
                             <li><i class="fa fa-calendar"></i> January 18, 2017</li>
                         </ul>
                         <h4><a href="blog-details.html">Children’s National festival for learning</a></h4>
-                        <div class="link"><a href="single-cause.html" class="thm-btn">donate now</a></div>
+                        <div class="link"><a href="#" class="thm-btn">donate now</a></div>
                     </div>
                 </div>
             </div> 
@@ -1443,20 +1246,28 @@
     </div>  
 </section>
 
-<footer class="main-footer">   
+
+
+<footer class="main-footer">
+    
     <!--Widgets Section-->
     <div class="widgets-section">
         <div class="container">
+
             <div class="section-title">
                 <div class="image-box">
                     <img src="images/footer/fl.png" alt="">
-                </div>             
+                </div>
+               
                 <p>Modern concept fot Nonprofit Business</p>
             </div>
+
+
             <div class="row">
                 <!--Big Column-->
                 <div class="col-md-6 col-sm-12 col-xs-12">
-                    <div class="row clearfix">   
+                    <div class="row clearfix">
+                        
                         <!--Footer Column-->
                         <div class="footer-column col-md-6 col-sm-6 col-xs-12">
                             <div class="footer-widget information-widget">
@@ -1491,6 +1302,8 @@
                                              <p><span> July 29, 2017   BY Donald</span></p>
                                         </li>
                                     </ul>
+                                   
+                                   
                                 </div>
                             </div>
                         </div>
@@ -1563,74 +1376,77 @@
                                                 </div>
                                             </li>
 
-                                            <li>
-                                                <div class="img-holder">
-													<img src="images/footer/2.jpg" alt="Awesome Image">
-													<div class="overlay">
-														<div class="box">
-															<div class="content">
-																<a href="#"><i class="fa fa-link"></i></a>
+                                                <li>
+                                                    <div class="img-holder">
+                                                        <img src="images/footer/2.jpg" alt="Awesome Image">
+                                                        <div class="overlay">
+															<div class="box">
+																<div class="content">
+																	<a href="#"><i class="fa fa-link"></i></a>
+																</div>
 															</div>
 														</div>
-													</div>
-												</div>
-											</li>
+                                                    </div>
+                                                </li>
 
-											<li>
-												<div class="img-holder">
-													<img src="images/footer/3.jpg" alt="Awesome Image">
-													<div class="overlay">
-														<div class="box">
-															<div class="content">
-																<a href="#"><i class="fa fa-link"></i></a>
+                                                <li>
+                                                    <div class="img-holder">
+                                                        <img src="images/footer/3.jpg" alt="Awesome Image">
+                                                        <div class="overlay">
+															<div class="box">
+																<div class="content">
+																	<a href="#"><i class="fa fa-link"></i></a>
+																</div>
 															</div>
 														</div>
-													</div>
-												</div>
-											</li>
-											<li>
-												<div class="img-holder">
-													<img src="images/footer/4.jpg" alt="Awesome Image">
-													<div class="overlay">
-														<div class="box">
-															<div class="content">
-																<a href="#"><i class="fa fa-link"></i></a>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="img-holder">
+                                                        <img src="images/footer/4.jpg" alt="Awesome Image">
+                                                        <div class="overlay">
+															<div class="box">
+																<div class="content">
+																	<a href="#"><i class="fa fa-link"></i></a>
+																</div>
 															</div>
 														</div>
-													</div>
-												</div>
-											</li>
-											<li>
-												<div class="img-holder">
-													<img src="images/footer/5.jpg" alt="Awesome Image">
-													<div class="overlay">
-														<div class="box">
-															<div class="content">
-																<a href="#"><i class="fa fa-link"></i></a>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="img-holder">
+                                                        <img src="images/footer/5.jpg" alt="Awesome Image">
+                                                        <div class="overlay">
+															<div class="box">
+																<div class="content">
+																	<a href="#"><i class="fa fa-link"></i></a>
+																</div>
 															</div>
 														</div>
-													</div>
-												</div>
-											</li>
-											<li>
-												<div class="img-holder">
-													<img src="images/footer/6.jpg" alt="Awesome Image">
-													<div class="overlay">
-														<div class="box">
-															<div class="content">
-																<a href="#"><i class="fa fa-link"></i></a>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="img-holder">
+                                                        <img src="images/footer/6.jpg" alt="Awesome Image">
+                                                        <div class="overlay">
+															<div class="box">
+																<div class="content">
+																	<a href="#"><i class="fa fa-link"></i></a>
+																</div>
 															</div>
 														</div>
-													</div>
-												</div>
-											</li>
-										   
-										</ul>
-										
-									</div>
-									
-								</div>
-							</div> 
+                                                    </div>
+                                                </li>
+                                               
+                                            </ul>
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                </div> 
+
+                           
+                       
                     </div>
                 </div>
                 
@@ -1673,6 +1489,7 @@
     <script src="js/jquery.mixitup.min.js"></script>
     <script src="js/jquery.fitvids.js"></script>
     <script src="js/bootstrap-select.min.js"></script>
+   
 
     <!-- revolution slider js -->
     <script src="js/jquery.themepunch.tools.min.js"></script>
@@ -1700,7 +1517,9 @@
     <script src="js/imagezoom.js"></script>
     <script src="js/jquery.magnific-popup.min.js"></script> 
     <script src="js/isotope.js"></script>   
-	<script src="js/simplyCountdown.min.js"></script>
+
+ 
+<script src="js/simplyCountdown.min.js"></script>
     <script id="map-script" src="js/default-map.js"></script>
     <script src="js/custom.js"></script>
 
@@ -1708,5 +1527,5 @@
     
 </body>
 
-<!-- Mirrored from perconcept.muzahid.com/Charity-sympathy/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 25 Mar 2018 14:26:11 GMT -->
+<!-- Mirrored from perconcept.muzahid.com/Charity-sympathy/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 25 Mar 2018 14:27:12 GMT -->
 </html>
