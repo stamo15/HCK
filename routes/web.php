@@ -11,19 +11,19 @@
 |
 */
 
-Route::get('/', 'PagesController@index');
-Route::get('/index-3', 'PagesController@index2');
-Route::get('/index-2', 'PagesController@index3');
-Route::get('/about', 'PagesController@about');
-Route::get('/blog-details', 'PagesController@blogDetails');
-Route::get('/blog-large', 'PagesController@blogLarge');
-Route::get('/causes', 'PagesController@causes');
-Route::get('/contact', 'PagesController@contact');
-Route::get('/error', 'PagesController@error');
-Route::get('/event-details', 'PagesController@eventDetails');
-Route::get('/event', 'PagesController@event');
-Route::get('/shop-single', 'PagesController@shopSingle');
-Route::get('/shop', 'PagesController@shop');
-Route::get('/single-cause', 'PagesController@singleCause');
+Route::get('/', 'PagesController@index') -> name('index');
+Route::get('/index-3', 'PagesController@index2') -> name('index-2');
+Route::get('/index-2', 'PagesController@index3') -> name('index-3');
+Route::get('/about', 'PagesController@about') -> name('about');
+Route::get('/blog-details', 'PagesController@blogDetails') -> name('blog-details');
+Route::get('/blog-large', 'PagesController@blogLarge') -> name('blog-large');
+Route::get('/causes', 'PagesController@causes') -> name('causes');
+Route::get('/contact', 'PagesController@contact') -> name('contact');
+Route::get('/error', 'PagesController@error') -> name('error');
+Route::get('/event-details', 'PagesController@eventDetails') -> name('event-details');
+Route::get('/event', 'PagesController@event') -> name('event');
+Route::get('/shop-single', 'PagesController@shopSingle') -> name('shop-single');
+Route::get('/shop', 'PagesController@shop') -> name('shop');
+Route::get('/single-cause', 'PagesController@singleCause') -> name('single-cause');
 
 

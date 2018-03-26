@@ -8,59 +8,87 @@ class PagesController extends Controller
 {
     //
     public function index(){
-        return view('index');
+        $data = [];
+        $data['title'] = "";
+        return view('index', $data);
     }
 
     public function index2(){
-        return view('index-2');    
+        $data = [];
+        $data['title'] = "";
+        return view('index-2', $data);    
     }
 
     public function index3(){
-        return view('index-3');    
+        $data = [];
+        $data['title'] = "";
+        return view('index-3', $data);    
     }
 
     public function about(){
-        return view('about');
+        $data = [];
+        $data['title'] = "About us";
+        return view('about', $data);
     }
 
     public function blogDetails(){
-        return view('blog-details');    
+        $data = [];
+        $data['title'] = "Blog";
+        return view('blog-details', $data);    
     }
 
     public function blogLarge(){
-        return view('blog-large');    
+        $data = [];
+        $data['title'] = "Blog";
+        return view('blog-large', $data);    
     }
 
     public function causes(){
-        return view('causes');
+        $data = [];
+        $data['title'] = "Causes";
+        return view('causes', $data);
     }
 
     public function contact(){
-        return view('contact');    
+        $data = [];
+        $data['title'] = "Contact Us";
+        return view('contact', $data);    
     }
 
     public function error(){
-        return view('error');    
+        $data = [];
+        $data['title'] = "Error";  
+        return view('error', $data);    
     }
 
     public function eventDetails(){
-        return view('event-details');
+        $data = [];
+        $data['title'] = "Event";
+        return view('event-details', $data);
     }
 
     public function event(){
-        return view('event');    
+        $data = [];
+        $data['title'] = "Events";
+        return view('event', $data);    
     }
 
     public function shopSingle(){
-        return view('shop-single');    
+        $data = [];
+        $data['title'] = "Shop-Single";
+        return view('shop-single', $data);    
     }
 
     public function shop(){
-        return view('shop');
+        $data = [];
+        $data['title'] = "Shop";
+        return view('shop', $data);
     }
 
     public function singleCause(){
-        return view('single-cause');    
+        $data = [];
+        $data['title'] = "Shop";
+        return view('single-cause', $data);    
     }
 
 }
