@@ -23,7 +23,7 @@
             "database/factories"
         ],
         "psr-4": {
-            "App\\": "app/"
+            "help_kids_in_CI\\": "app/"
         }
     },
     "autoload-dev": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace help_kids_in_CI;
 
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Foundation\Auth\User as Authenticatable;
