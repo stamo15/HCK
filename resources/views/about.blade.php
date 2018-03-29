@@ -6,7 +6,10 @@
             <h1>about <span>us</span></h1>
         </div>
         <div class="text">
-			<p>Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore </p>
+			<p>
+				Help Kids in Cote d'Ivoire aims to provide basic needs such as food, 
+				clothing and education to children in Cote d'Ivoire. 
+			</p>
 		</div>
 		<div class="breadcumb-wrapper">
             <ul class="list-inline link-list">
@@ -20,15 +23,17 @@
 <section class="two-column style-two">
 	<div class="container">
 		<div class="section-title">
-            <h5>you will get best support</h5>
-            <h1>why choose  <span>us</span></h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+            <h5>We do it for a noble cause</h5>
+            <h1>what we  <span>do</span></h1>
+			<p>Help Kids in Cote d'Ivoire aims to provide basic needs such as food, 
+				clothing and education to children in Cote d'Ivoire. We also focus on helping girls who are a marginalized 
+				gender in the country through a program that allows them to raise taboo issues and we provides sustainable solutions.</p>
         </div>
 		<div class="item-list">
 			<div class="row">
 				<div class="column col-md-6 col-sm-6">
 					<div class="image-box">
-						<img src="images/resources/1.jpg" alt="" />
+						<img src="images/resources/pb..jpg" alt="" />
 					</div>
 				</div>
 				<div class="column col-md-6 col-sm-6">

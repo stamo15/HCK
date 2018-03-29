@@ -4,7 +4,7 @@
 <section class="page-banner">
     <div class="container">
 		<div class="title">
-            <h1>all <span>Causes</span></h1>
+            <h1>Our <span>Mission</span></h1>
         </div>
         <div class="text">
 			<p>Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore </p>

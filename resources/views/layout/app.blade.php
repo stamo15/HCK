@@ -39,12 +39,30 @@
                 <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
             </ul>
         </div>
-        <div class="column right">
+        <!-- <div class="column right">
             <ul class="login-info">
                 <li><a href="#"><i class="icon fa fa-arrow-circle-down"></i>login</a></li>
                 <li><a href="#"><i class="icon fa fa-user"></i>signup</a></li>
                 
             </ul>
+        </div> -->
+        <div class="column right">
+            <div class="tp-caption tp-resizeme" 
+                data-x="left" data-hoffset="15" 
+                data-y="top" data-voffset="500" 
+                data-transform_idle="o:1;"                         
+                data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                data-splitin="none" 
+                data-splitout="none" 
+                data-responsive_offset="on"
+                data-start="2300" style="position:relative;">
+                <div class="slide-content-box">
+                    <div class="button">
+                        <a class="thm-btn" href="#">join with us today</a>     
+                    </div>
+                </div>
+            </div>
         </div>
             
 
@@ -89,15 +107,9 @@
                                     <li><a href="{{ route('about')}}">About us</a></li>  
                                 </ul>
                             </li>
-                            <li class="dropdown @if($title == 'Causes')
+                            <li class="@if($title == 'Mission')
                             {{'active'}}
-                            @endif
-                            "><a href="{{ route('causes')}}">Causes</a>
-                                <ul>
-                                    <li><a href="{{ route('causes')}}">Causes</a></li>
-                                    <li><a href="{{ route('single-cause')}}">Single Cause</a></li>  
-                                </ul>
-                            </li>
+                            @endif"><a href="{{ route('mission')}}">Mission</a></li>
                             <li class="dropdown @if($title == 'Events')
                             {{'active'}}
                             @endif
@@ -107,7 +119,7 @@
                                     <li><a href="{{ route('event-details')}}">Event Details</a></li>
                                  </ul>
                             </li>
-                            <li class="dropdown @if($title == 'Blog')
+                            <!-- <li class="dropdown @if($title == 'Blog')
                             {{'active'}}
                             @endif"><a href="#"> blog </a>
                                 <ul>  
@@ -123,7 +135,7 @@
 									<li><a href="{{ route('shop-single')}}">Product Detail Page</a></li>
                                     <li><a href="{{ route('error')}}">404</a></li>
                                 </ul>
-                            </li>
+                            </li> -->
                             <li class="@if($title == 'Contact Us')
                             {{'active'}}
                             @endif"><a href="{{ route('contact')}}">contact</a></li>
@@ -147,15 +159,9 @@
                                     <li><a href="{{ route('about')}}">About us</a></li>  
                                 </ul>
                             </li>
-                            <li class="dropdown @if($title == 'Causes')
+                            <li class="@if($title == 'Mission')
                             {{'active'}}
-                            @endif
-                            "><a href="{{ route('causes')}}">Causes</a>
-                                <ul>
-                                    <li><a href="{{ route('causes')}}">Causes</a></li>
-                                    <li><a href="{{ route('single-cause')}}">Single Cause</a></li>  
-                                </ul>
-                            </li>
+                            @endif"><a href="{{ route('mission')}}">Mission</a></li>
                             <li class="dropdown @if($title == 'Events')
                             {{'active'}}
                             @endif

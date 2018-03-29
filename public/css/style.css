@@ -482,7 +482,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 }
 /*============ login info ========*/
-.top-bar .login-info li {
+/* .top-bar .login-info li {
     display: inline-block;
 }
 .top-bar .login-info li a {
@@ -501,7 +501,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     font-size: 14px;
     position: relative;
     top: 1px;
-}
+} */
 
 /*logo*/
 
@@ -1116,7 +1116,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   
   margin-top:-115px;
   text-align:center;
-  background: url(../images/resources/banner.jpg)no-repeat;
+  background: url(../images/resources/pb..jpg)no-repeat;
     padding: 220px 0px 95px;
     background-position: center center;
     background-size: cover;
@@ -4292,7 +4292,7 @@ Project styles
   background-attachment:fixed;
   background-position:center center;
   color:#ffffff;
-  background-image:url(../images/background/pb.jpg);
+  background-image:url(../images/background/pb..jpg);
   z-index:1;
 }
 
@@ -5351,7 +5351,7 @@ Project styles
   background-attachment:fixed;
   background-position:center center;
   color:#ffffff;
-  background-image:url(../images/background/2.jpg);
+  background-image:url(../images/background/1..jpg);
   z-index:1;
 }
 .reviews:before{

@@ -5,7 +5,7 @@
     <div id="slider1" class="rev_slider"  data-version="5.0">
         <ul>
             <li data-transition="fade">
-                <img src="images/slider/1.jpg"  alt="" width="1920" height="882" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
+                <img src="images/slider/2...jpg"  alt="" width="1920" height="882" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
                 
                 <div class="tp-caption  tp-resizeme" 
                     data-x="left" data-hoffset="15" 
@@ -19,9 +19,9 @@
                     data-responsive_offset="on"
                     data-start="700">
                     <div class="slide-content-box">
-						<h4>Thousand of children are waiting for help!</h4>
-                        <h1>help the <span>poor</span> people</h1>
-                        <p>Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque la<br>udantium, totam rem aperiam eaque ipsa, quae ab illo inventore </p>
+						<h4>Thousand of children in Cote d'Ivoire are in extreme need!</h4>
+                        <h1>help the <span>poor</span> kids</h1>
+                        <p>Helping one of these kids in need today<br>is similar to contibuting to a better future for Cote d'Ivoire and Africa at large. </p>
                     </div>
                 </div>
                 <div class="tp-caption tp-resizeme" 
@@ -44,7 +44,7 @@
             </li>
 			
 			<li data-transition="fade">
-                <img src="images/slider/2.jpg"  alt="" width="1920" height="882" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
+                <img src="images/slider/3..jpg"  alt="" width="1920" height="882" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
                 
                
                 <div class="tp-caption tp-resizeme"
@@ -59,9 +59,9 @@
                     data-responsive_offset="on"
                     data-start="500">
                     <div class="slide-content-box center">
-                        <h4>Thousand of children are waiting for help!</h4>
-                        <h1>help the <span>poor</span> people</h1>
-                        <p>Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque la<br>udantium, totam rem aperiam eaque ipsa, quae ab illo inventore </p>
+                        <h4>Thousand of children in Cote d'Ivoire are in extreme need!</h4>
+                        <h1>help the <span>poor</span> kids</h1>
+                        <p>Be part of something that matters by contributing to the betterment<br>of the lives of these children who are struggling on a daily basis.</p>
                     </div>
                 </div>
                 <div class="tp-caption tp-resizeme" 
@@ -84,7 +84,7 @@
             </li>
             
             <li data-transition="fade">
-                <img src="images/slider/3.jpg"  alt="" width="1920" height="882" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
+                <img src="images/slider/4.jpg"  alt="" width="1920" height="882" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
                 
                 
                 <div class="tp-caption tp-resizeme"
@@ -99,9 +99,9 @@
                     data-responsive_offset="on"
                     data-start="500">
                     <div class="slide-content-box center">
-                        <h4>Thousand of children are waiting for help!</h4>
-                        <h1>help the <span>poor</span> people</h1>
-                        <p>Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque la<br>udantium, totam rem aperiam eaque ipsa, quae ab illo inventore </p>
+                        <h4>Thousand of children in Cote d'Ivoire are in extreme need!</h4>
+                        <h1>help the <span>poor</span> kids</h1>
+                        <p>Life is not going easy on many children in Cote d'Ivoire, <br>so join us and contribute in making it easier for these children to at least meet basic needs. </p>
                     </div>
                 </div>
                 <div class="tp-caption tp-resizeme" 

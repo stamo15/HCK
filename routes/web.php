@@ -17,7 +17,7 @@ Route::get('/index-2', 'PagesController@index3') -> name('index-3');
 Route::get('/about', 'PagesController@about') -> name('about');
 Route::get('/blog-details', 'PagesController@blogDetails') -> name('blog-details');
 Route::get('/blog-large', 'PagesController@blogLarge') -> name('blog-large');
-Route::get('/causes', 'PagesController@causes') -> name('causes');
+Route::get('/mission', 'PagesController@mission') -> name('mission');
 Route::get('/contact', 'PagesController@contact') -> name('contact');
 Route::get('/error', 'PagesController@error') -> name('error');
 Route::get('/event-details', 'PagesController@eventDetails') -> name('event-details');

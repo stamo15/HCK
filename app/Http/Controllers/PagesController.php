@@ -43,10 +43,10 @@ class PagesController extends Controller
         return view('blog-large', $data);    
     }
 
-    public function causes(){
+    public function mission(){
         $data = [];
-        $data['title'] = "Causes";
-        return view('causes', $data);
+        $data['title'] = "Mission";
+        return view('mission', $data);
     }
 
     public function contact(){
