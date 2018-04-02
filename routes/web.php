@@ -19,6 +19,7 @@ Route::get('/blog-details', 'PagesController@blogDetails') -> name('blog-details
 Route::get('/blog-large', 'PagesController@blogLarge') -> name('blog-large');
 Route::get('/mission', 'PagesController@mission') -> name('mission');
 Route::get('/contact', 'PagesController@contact') -> name('contact');
+Route::get('/get-involved', 'PagesController@getInvolved') -> name('get-involved');
 Route::get('/error', 'PagesController@error') -> name('error');
 Route::get('/event-details', 'PagesController@eventDetails') -> name('event-details');
 Route::get('/event', 'PagesController@event') -> name('event');

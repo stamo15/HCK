@@ -55,6 +55,12 @@ class PagesController extends Controller
         return view('contact', $data);    
     }
 
+    public function getInvolved(){
+        $data = [];
+        $data['title'] = "Get Involved";
+        return view('get-involved', $data);    
+    }
+
     public function error(){
         $data = [];
         $data['title'] = "Error";  

@@ -28,24 +28,17 @@
     <div class="container">
         <div class="column left">
             <ul class="top-bar-text">
-                <li><i class="icon fa fa-envelope"></i>charitysympathy@info.com</li>
-                <li><i class="icon fa fa-phone"></i>012.9355.121</li>
+                <li><i class="icon fa fa-envelope"></i>helpkidsincotedivoire@gmail.com</li>
+                <li><i class="icon fa fa-phone"></i>+1 646-707-9947</li>
             </ul>
         </div>
         <div class="column center">
             <ul class="social">                
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                <li><a href="https://www.facebook.com/HelpKidsInAfrique/?ref=aymt_homepage_panel"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://www.instagram.com/helpkidsin_afrique/"><i class="fa fa-instagram"></i></a></li>
+                <!-- <li><a href="#"><i class="fa fa-go-fund-me"></i></a></li> -->
             </ul>
         </div>
-        <!-- <div class="column right">
-            <ul class="login-info">
-                <li><a href="#"><i class="icon fa fa-arrow-circle-down"></i>login</a></li>
-                <li><a href="#"><i class="icon fa fa-user"></i>signup</a></li>
-                
-            </ul>
-        </div> -->
         <div class="column right">
             <div class="tp-caption tp-resizeme" 
                 data-x="left" data-hoffset="15" 
@@ -59,7 +52,7 @@
                 data-start="2300" style="position:relative;">
                 <div class="slide-content-box">
                     <div class="button">
-                        <a class="thm-btn" href="#">join with us today</a>     
+                        <a class="thm-btn" href="{{ route('get-involved')}}">join us today</a>     
                     </div>
                 </div>
             </div>

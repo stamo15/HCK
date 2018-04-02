@@ -36,7 +36,7 @@
                     data-start="2300">
                     <div class="slide-content-box">
                         <div class="button">
-                            <a class="thm-btn" href="#">join with us today</a>     
+                            <a class="thm-btn" href="{{ route('get-involved')}}">Get involved now</a>     
                         </div>
                     </div>
                 </div>
@@ -76,7 +76,7 @@
                     data-start="1500">
                     <div class="slide-content-box">
                         <div class="button">
-                            <a class="thm-btn" href="#">join with us today</a>     
+                            <a class="thm-btn" href="{{ route('get-involved')}}">Get involved now</a>     
                         </div>
                     </div>
                 </div>
@@ -116,7 +116,7 @@
                     data-start="1500">
                     <div class="slide-content-box">
                         <div class="button">
-                            <a class="thm-btn" href="#">join with us today</a>     
+                            <a class="thm-btn" href="{{ route('get-involved')}}">Get involved now</a>     
                         </div>
                     </div>
                 </div>
@@ -137,33 +137,14 @@
 
                         <div class="clearfix bg-area">
                             <figure class="img-box">
-                                <img src="images/feature/f.jpg" alt="">
+                                <img src="{{asset('images/feature/1.jpg')}}" alt="">
                             </figure>
                             
 
                             <div class="content">
-                                <h4>Helping for <span>education</span> to syrian <br>child & <span>food planting</span></h4>
+                                <h4><span>food</span> & <span>clothing</span>are basic needs thatwe are trying to fulfill for kids in Cote d'Ivoire</h4>
 
-                                <div class="progress-levels">
-                                    
-                                    <!--Skill Box-->
-                                    <div class="progress-box">
-                                        
-                                        <div class="inner">
-                                            <div class="bar">
-                                                <div class="bar-innner">
-                                                    <div class="bar-fill" data-percent="76">
-                                                        <span class="percent">76%</span>
-                                                    </div>
-                                                </div>
-                                                
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
 
-                                <div class="donate-price"><b>$44,210</b>&nbsp;  Raised of <span>$99,541</span> Goal</div>
-                                <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
                             </div>
                         </div>
                             
@@ -171,27 +152,24 @@
                     <div class="item">
                         <div class="clearfix bg-area">
                             <figure class="img-box">
-                                <img src="images/feature/f.jpg" alt="">
+                                <img src="{{asset('images/feature/edu.png')}}" alt="">
                             </figure>
 							
                             <div class="content">
-                                <h4>Helping for <span>education</span> to syrian <br>child & <span>food planting</span></h4>
-                                <div class="progress-levels">
-                                    <!--Skill Box-->
-                                    <div class="progress-box">
-                                        <div class="inner">
-                                            <div class="bar">
-                                                <div class="bar-innner">
-                                                    <div class="bar-fill" data-percent="76">
-                                                        <span class="percent">76%</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="donate-price"><b>$44,210</b>&nbsp;  Raised of <span>$99,541</span> Goal</div>
-                                <div class="link"><a href="single-cause.html" class="thm-btn style-2">donate now</a></div>
+                                <h4>We believe that every Ivorian child deserves a good<span> education</span> so we try to provide school kits for the least fortunate ones.</h4>
+                                
+                            </div>
+                        </div>  
+                    </div>
+                    <div class="item">
+                        <div class="clearfix bg-area">
+                            <figure class="img-box">
+                                <img src="{{asset('images/feature/1..jpg')}}" alt="">
+                            </figure>
+							
+                            <div class="content">
+                                <h4>We worry about <span>healthcare</span> for the children so we try to fight taboo related issues especially against girls</span></h4>
+                                
                             </div>
                         </div>  
                     </div>
@@ -637,15 +615,28 @@
 
 <!--start parallax-sec-one-->
 <section class="parallax-sec-one">
-	<div class="container">
+<div class="container">
 		<div class="section-title">
-			<h1>we help many people</h1>
-			<h4>want to become a <span>volunteer!</span></h4>
+			<h1>Get involved</h1>
+			<h4>Join <span>us</span> today!</h4>
 		</div>
-		<div class="content-box text-center">
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun labore dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </p>
-		</div>
-		<div class="link"><a href="single-cause.html" class="thm-btn">Apply now</a></div>
+		
+		<div class="tp-caption tp-resizeme" 
+                data-x="left" data-hoffset="15" 
+                data-y="top" data-voffset="500" 
+                data-transform_idle="o:1;"                         
+                data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                data-splitin="none" 
+                data-splitout="none" 
+                data-responsive_offset="on"
+                data-start="2300" style="margin-left:38%;">
+                <div class="slide-content-box">
+                    <div class="button">
+                        <a class="thm-btn" href="{{ route('get-involved')}}">join us today</a>     
+                    </div>
+                </div>
+            </div>
 	</div>
 </section>
 <!--end parallax-sec-one-->
