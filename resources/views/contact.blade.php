@@ -6,7 +6,7 @@
             <h1>Contact <span>us</span></h1>
         </div>
         <div class="text">
-			<p>Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore </p>
+			<p>Please reach out to us by sending a message. You can also follow us on social media </p>
 		</div>
 		<div class="breadcumb-wrapper">
             <ul class="list-inline link-list">
@@ -23,36 +23,36 @@
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="item center">
                     <div class="icon_box">
-                        <span class="fa fa-object-ungroup"></span>
+                        <span class="fa fa-phone"></span>
                     </div>
-                    <h4>Drop Us A Line</h4>
+                    <h4>Call us</h4>
                     <div class="text">
-                        <p>Business standards services compliant. Users without extensible costs.</p>
-						<h5>hello@charity.com</h5>
+                        <p>Give us a phone call</p>
+						<h5>+1 646-707-9947</h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="item center">
                     <div class="icon_box">
-                        <span class="fa fa-user"></span>
+                        <span class="fa fa-instagram"></span>
                     </div>
-                    <h4>Commercial</h4>
+                    <h4>Instagram</h4>
                     <div class="text">
-                        <p>Business standards services compliant. Users without extensible costs.</p>
-						<h5>commercial@charity.com</h5>
+                        <p>Follow us Instagram</p>
+						<h5>https://www.instagram.com/helpkidsin_afrique/</h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="item center">
                     <div class="icon_box">
-                        <span class="fa fa-map-marker"></span>
+                        <span class="fa fa-facebook"></span>
                     </div>
-                    <h4>Visit Our Office</h4>
+                    <h4>Faceboof</h4>
                     <div class="text">
-                        <p>262 Milacina Mrest Street, Behansed, Paris, France</p>
-						<h5>(+86) 6 888 888</h5>
+                        <p>Follow us on Facebook</p>
+						<h5>https://www.facebook.com/HelpKidsInAfrique/?ref=aymt_homepage_panel</h5>
                     </div>
                 </div>
             </div>
@@ -78,7 +78,7 @@
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-12">
 						<div class="form-group">
-							<input type="email" name="form_email" class="form-control required email" value="" placeholder="Your Mail" required="">
+							<input type="email" name="form_email" class="form-control required email" value="" placeholder="Your Email" required="">
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-12">
@@ -108,46 +108,33 @@
 		</div>
             
     </div>
-	<div class="home-google-map">
-		<div 
-			class="google-map" 
-			id="contact-google-map" 
-			data-map-lat="36.170043" 
-			data-map-lng="-115.144622" 
-			data-icon-path="images/logo/map-marker.png"
-			data-map-title="Chester"
-			data-map-zoom="14" >
+</section>
+
+<!--start parallax-sec-one-->
+<section class="parallax-sec-one">
+    <div class="container">
+		<div class="section-title">
+			<h1>Get involved</h1>
+			<h4>Join <span>us</span> today!</h4>
 		</div>
+		
+		<div class="tp-caption tp-resizeme" 
+                data-x="left" data-hoffset="15" 
+                data-y="top" data-voffset="500" 
+                data-transform_idle="o:1;"                         
+                data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                data-splitin="none" 
+                data-splitout="none" 
+                data-responsive_offset="on"
+                data-start="2300" style="margin-left:38%;">
+                <div class="slide-content-box">
+                    <div class="button">
+                        <a class="thm-btn" href="{{ route('get-involved')}}">join us today</a>     
+                    </div>
+                </div>
+            </div>
 	</div>
 </section>
-
-<section class="clients-section style-two">
-    <div class="container">
-        <div class="clients-carousel">
-			<div class="item">
-				<div class="image-box">
-					<img src="images/clients/1.png" alt="">
-				</div>
-			</div>
-
-			<div class="item">
-				<div class="image-box">
-					<img src="images/clients/2.png" alt="">
-				</div>
-			</div>
-
-			<div class="item">
-				<div class="image-box">
-					<img src="images/clients/3.png" alt="">
-				</div>
-			</div>
-
-			<div class="item">
-				<div class="image-box">
-					<img src="images/clients/2.png" alt="">
-				</div>
-			</div>
-        </div>
-    </div>  
-</section>
+<!--end parallax-sec-one-->
 @endsection

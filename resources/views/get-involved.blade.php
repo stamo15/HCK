@@ -74,46 +74,7 @@
 		</div>
             
     </div>
-	<div class="home-google-map">
-		<div 
-			class="google-map" 
-			id="contact-google-map" 
-			data-map-lat="36.170043" 
-			data-map-lng="-115.144622" 
-			data-icon-path="images/logo/map-marker.png"
-			data-map-title="Chester"
-			data-map-zoom="14" >
-		</div>
-	</div>
 </section>
 
-<section class="clients-section style-two">
-    <div class="container">
-        <div class="clients-carousel">
-			<div class="item">
-				<div class="image-box">
-					<img src="images/clients/1.png" alt="">
-				</div>
-			</div>
 
-			<div class="item">
-				<div class="image-box">
-					<img src="images/clients/2.png" alt="">
-				</div>
-			</div>
-
-			<div class="item">
-				<div class="image-box">
-					<img src="images/clients/3.png" alt="">
-				</div>
-			</div>
-
-			<div class="item">
-				<div class="image-box">
-					<img src="images/clients/2.png" alt="">
-				</div>
-			</div>
-        </div>
-    </div>  
-</section>
 @endsection

@@ -87,9 +87,7 @@
                             @endif
                             "><a href="{{ route('index')}}">Home</a>
                                 <ul>
-                                    <li><a href="{{ route('index')}}">Home One</a></li>
-                                    <li><a href="{{ route('index-2')}}">Home Two</a></li>
-                                    <li><a href="{{ route('index-3')}}">Home Three</a></li>
+                                    <li><a href="{{ route('index')}}">Home</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown @if($title == 'About us')
@@ -100,18 +98,7 @@
                                     <li><a href="{{ route('about')}}">About us</a></li>  
                                 </ul>
                             </li>
-                            <li class="@if($title == 'Mission')
-                            {{'active'}}
-                            @endif"><a href="{{ route('mission')}}">Mission</a></li>
-                            <li class="dropdown @if($title == 'Events')
-                            {{'active'}}
-                            @endif
-                            "><a href="{{ route('event')}}">Events</a>
-                                <ul>
-                                    <li><a href="{{ route('event')}}">Events</a></li>
-                                    <li><a href="{{ route('event-details')}}">Event Details</a></li>
-                                 </ul>
-                            </li>
+                            
                             <!-- <li class="dropdown @if($title == 'Blog')
                             {{'active'}}
                             @endif"><a href="#"> blog </a>
@@ -129,6 +116,9 @@
                                     <li><a href="{{ route('error')}}">404</a></li>
                                 </ul>
                             </li> -->
+                            <li class="@if($title == 'Get Involved')
+                            {{'active'}}
+                            @endif"><a href="{{ route('get-involved')}}">Get Involved</a></li>
                             <li class="@if($title == 'Contact Us')
                             {{'active'}}
                             @endif"><a href="{{ route('contact')}}">contact</a></li>
@@ -139,9 +129,7 @@
                             {{'active'}}
                             @endif"><a href="{{ route('index')}}">Home</a>
                                 <ul>
-                                    <li><a href="{{ route('index')}}">Home One</a></li>
-                                    <li><a href="{{ route('index-2')}}">Home Two</a></li>
-                                    <li><a href="{{ route('index-3')}}">Home Three</a></li>
+                                    <li><a href="{{ route('index')}}">Home</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown @if($title == 'About Us')
@@ -152,18 +140,8 @@
                                     <li><a href="{{ route('about')}}">About us</a></li>  
                                 </ul>
                             </li>
-                            <li class="@if($title == 'Mission')
-                            {{'active'}}
-                            @endif"><a href="{{ route('mission')}}">Mission</a></li>
-                            <li class="dropdown @if($title == 'Events')
-                            {{'active'}}
-                            @endif
-                            "><a href="{{ route('event')}}">Events</a>
-                                <ul>
-                                    <li><a href="{{ route('event')}}">Events</a></li>
-                                    <li><a href="{{ route('event-details')}}">Event Details</a></li>
-                                 </ul>
-                            </li>
+                            
+                            
                             <li class="dropdown @if($title == 'Blog')
                             {{'active'}}
                             @endif
@@ -182,6 +160,9 @@
                                     <li><a href="{{ route('error')}}">404</a></li>
                                 </ul>
                             </li>
+                            <li class="@if($title == 'Get Involved')
+                            {{'active'}}
+                            @endif"><a href="{{ route('get-involved')}}">Get Involved</a></li>
                             <li class="@if($title == 'Contact')
                             {{'active'}}
                             @endif"><a href="{{ route('contact')}}">contact</a></li>
@@ -223,7 +204,7 @@
                     <img src="images/footer/fl.png" alt="">
                 </div>
                
-                <p>Modern concept fot Nonprofit Business</p>
+                <p>Help kids in Cote d'Ivoire</p>
             </div>
 
 
@@ -238,11 +219,11 @@
                                 <h3 class="footer-title">Information</h3>
                                 
                                 <div class="widget-content">
-                                    <div class="text"><p>Lorem ipsum dolor sit amet, consecttur adipiscing egestas rhoncus Praesent Nunc pretium est placerat congue</p> </div>
+                                    <div class="text"><p>Help Kids in  Côte d'ivoire is a Non-profit organization based in Abidjan,Cote d’Ivoire that started with a goal aiming to Help 
+                    kids in villages and orphanages in Africa.</p> </div>
                                     <ul class="contact-info">
-                                        <li><span class="fa fa-map-marker"></span>8, Haji Mohshin road, Khulna</li>
-                                        <li><span class="fa fa-envelope-o"></span> support@user.com</li>
-                                        <li><span class="fa fa-phone"></span>1234 - 5678 - 9101</li>
+                                        <li><span class="fa fa-envelope-o"></span> helpkidsincotedivoire@gmail.com</li>
+                                        <li><span class="fa fa-phone"></span>+1 646-707-9947</li>
                                     </ul>
                                 </div>
                             </div>
@@ -250,20 +231,20 @@
                         <!--Footer Column-->
                         <div class="footer-column col-md-6 col-sm-6 col-xs-12">
                             <div class="footer-widget works-widget">
-                                <h3 class="footer-title">Latest Works</h3>
+                                <h3 class="footer-title">Causes we care about</h3>
                                 <div class="widget-content">
                                     <ul class="list">
                                         <li>
-                                            <h5>Food is Giving to them</h5>
-                                             <p> <span>July 29, 2017   BY Donald</span></p>
+                                            <h5>Food and Clothing for all kids</h5>
+                                             
                                         </li>
                                         <li>
-                                            <h5>Buy some candy for children</h5>
-                                             <p> February 15, 2017   BY <span>M_Themes</span></p>
+                                            <h5>Education for children</h5>
+                                             
                                         </li>
                                         <li>
-                                            <h5>Build a building for shelter</h5>
-                                             <p><span> July 29, 2017   BY Donald</span></p>
+                                            <h5>Marginalization due to taboo topics</h5>
+                                             
                                         </li>
                                     </ul>
                                    
@@ -329,11 +310,11 @@
                                         <ul class="instagram">
                                             <li>
                                                 <div class="img-holder">
-                                                    <img src="images/footer/1.jpg" alt="Awesome Image">
+                                                    <img src="{{asset('images/footer/1.png')}}" alt="Awesome Image">
                                                     <div class="overlay">
 															<div class="box">
 																<div class="content">
-																	<a href="#"><i class="fa fa-link"></i></a>
+																	<a href="https://www.instagram.com/helpkidsin_afrique/"><i class="fa fa-link"></i></a>
 																</div>
 															</div>
 														</div>
@@ -342,11 +323,11 @@
 
                                                 <li>
                                                     <div class="img-holder">
-                                                        <img src="images/footer/2.jpg" alt="Awesome Image">
+                                                        <img src="{{asset('images/footer/2.png')}}" alt="Awesome Image">
                                                         <div class="overlay">
 															<div class="box">
 																<div class="content">
-																	<a href="#"><i class="fa fa-link"></i></a>
+																	<a href="https://www.instagram.com/helpkidsin_afrique/"><i class="fa fa-link"></i></a>
 																</div>
 															</div>
 														</div>
@@ -355,11 +336,11 @@
 
                                                 <li>
                                                     <div class="img-holder">
-                                                        <img src="images/footer/3.jpg" alt="Awesome Image">
+                                                        <img src="{{asset('images/footer/3.png')}}" alt="Awesome Image">
                                                         <div class="overlay">
 															<div class="box">
 																<div class="content">
-																	<a href="#"><i class="fa fa-link"></i></a>
+																	<a href="https://www.instagram.com/helpkidsin_afrique/"><i class="fa fa-link"></i></a>
 																</div>
 															</div>
 														</div>
@@ -367,11 +348,11 @@
                                                 </li>
                                                 <li>
                                                     <div class="img-holder">
-                                                        <img src="images/footer/4.jpg" alt="Awesome Image">
+                                                        <img src="{{asset('images/footer/4.png')}}" alt="Awesome Image">
                                                         <div class="overlay">
 															<div class="box">
 																<div class="content">
-																	<a href="#"><i class="fa fa-link"></i></a>
+																	<a href="https://www.instagram.com/helpkidsin_afrique/"><i class="fa fa-link"></i></a>
 																</div>
 															</div>
 														</div>
@@ -379,11 +360,11 @@
                                                 </li>
                                                 <li>
                                                     <div class="img-holder">
-                                                        <img src="images/footer/5.jpg" alt="Awesome Image">
+                                                        <img src="{{asset('images/footer/5.png')}}" alt="Awesome Image">
                                                         <div class="overlay">
 															<div class="box">
 																<div class="content">
-																	<a href="#"><i class="fa fa-link"></i></a>
+																	<a href="https://www.instagram.com/helpkidsin_afrique/"><i class="fa fa-link"></i></a>
 																</div>
 															</div>
 														</div>
@@ -391,11 +372,11 @@
                                                 </li>
                                                 <li>
                                                     <div class="img-holder">
-                                                        <img src="images/footer/6.jpg" alt="Awesome Image">
+                                                        <img src="{{asset('images/footer/6.png')}}" alt="Awesome Image">
                                                         <div class="overlay">
 															<div class="box">
 																<div class="content">
-																	<a href="#"><i class="fa fa-link"></i></a>
+																	<a href="https://www.instagram.com/helpkidsin_afrique/"><i class="fa fa-link"></i></a>
 																</div>
 															</div>
 														</div>
@@ -420,7 +401,7 @@
      <div class="footer-bottom">
         <div class="container">
             <div class="text">
-                <p><span>charitysympathy</span>@2017. All Right Reserved</p>
+                <p><span>helpkidsincotedivoire</span>@2017. All Right Reserved</p>
             </div>
         </div><!-- /.container -->
     </div>
